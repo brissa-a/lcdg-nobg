@@ -1,0 +1,2967 @@
+{
+ "PA1008": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4d2bd33f3a51f0a0b1df4d11b3a755a4318e358e68252214a31e602f936a3dff"
+ },
+ "PA1327": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0f49633738ce82f8a3506845d857f1868b77744e8590c9f8adc20625312efd34"
+ },
+ "PA1567": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "43b24a07bcd6af67136d6e600539bac98d7421971a571ca431555fabea9a030c"
+ },
+ "PA1592": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "377456db2a05a3e6cfa7e43bb5ab1daaf078e0ea85b99b1258a63e0dc79096b7"
+ },
+ "PA1630": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "3f1ec3bba219b987d5617577c219a11a07fd5894817c30dd01e2c10021c263ae"
+ },
+ "PA1654": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "ff4dabb8ddc6c45dad2b44c8def2c5b1763c3fe613b3f439548305046645de30"
+ },
+ "PA227089": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e38e729f4ce52a1b908314ac8c40171d54b3ae4242855d6841b7fe2ac873069c"
+ },
+ "PA266793": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "990e41d5f7595fde73385df4198dd7ee0c195d5863115950183f4a7ac62c8b49"
+ },
+ "PA266797": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4fdd6f134d01ea7501960bc033667db4bac45d968c2338f3e6dd90cbbc8de8b2"
+ },
+ "PA266808": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "b995a3fd74aec0aae4a74e3ee006076856099f1c1262c954a6662baa27f77f73"
+ },
+ "PA267042": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0f568320d64c75f5146a4539981a8cb7f87684a0f58126f725c661cbc4c64c4d"
+ },
+ "PA267200": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "21d434ae8f9010640499b3b45d448e2add01affd449e3516ae20422227ce2383"
+ },
+ "PA267285": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "2684d4b82ebaf2d9800ccb5827878569f175f66e339948d16375d984bb555640"
+ },
+ "PA267306": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "bd04c10708dd42e70b419b537414c462fe918e6c702a6ed0647316703d188d8f"
+ },
+ "PA267318": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "932b1e03dd9a3af5607c1d55742fe31c32a1b8903668f4ec49771dc945fa5c6e"
+ },
+ "PA267561": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "5a9ba62cce68f06c673984c44f5594811e148dbc49b812edff46212be48efc91"
+ },
+ "PA267763": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "ba24fb1e7773dc51c6ae4833b5a072d2ff8848e4f7ec8a616efa02e07156f3a4"
+ },
+ "PA267780": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "b822a0e16779ac3d18f46367467d925586a817a6aa63cd42636232982c04937f"
+ },
+ "PA267794": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "114922d2a4f2e91a5271e4630fab68f5b9358002b0dd81299a255da3e49d7fe2"
+ },
+ "PA2940": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "f2f0ad1ced00446a93471d16a9a0a60d23bf7390e96b9e39978eb668d6f02af6"
+ },
+ "PA2952": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "6e0de3427178d9e203a86105256a76bfb747eceaa35582d3922a26a7d1696cd0"
+ },
+ "PA2960": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "9614830eeee1842ce3aa0fde7d6e5cbb02e7d20aeda545ec628b018bd94ff116"
+ },
+ "PA309643": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "ca42f5198aeac92e54415fb4fdb7d043e28c76bc323acd252d7b37fc2165f29e"
+ },
+ "PA330008": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0c130b6925aa42bf8f6f4149857a3fbcbbbc310d450c8b65989ed5f7cf226ead"
+ },
+ "PA330240": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "9257558fc96300a64e9e77c9e25e6b39acbf30388f9211afe6730ad24c390c20"
+ },
+ "PA330909": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d7de4366d19a122a03bf2c6f9ff8c1898e05354edf770867fc2485ce81648831"
+ },
+ "PA331582": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "2bd59bd93020689587ea7e8c5474a3b4cf620dee0218a2341921a1cda273ace7"
+ },
+ "PA331973": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "79a77e22b53108fc8836a077e5839b197738840dbb27bf162017e8503b3c1c58"
+ },
+ "PA332228": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "fc4016000bf0f87715b4c7ccf6e43a44e3bb3fd062353a2ab09730b19978a204"
+ },
+ "PA332523": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "fea7efdca99b6d410b0d44e1e2c028f6aedb260c37d3b7abb02196b54e50157b"
+ },
+ "PA333285": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "912ecd8fe144c55a32c8e1da0feb767a8f7745ce77b4ce0758847cd15ee2361a"
+ },
+ "PA335054": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "52434ed6fae63009765d2aeb72f7c95b7c260918e939f8075952c7a1e9d95280"
+ },
+ "PA335612": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "b710b198e624f9749f9f4f50af9a6ec6d7fdac07a27187c0392dc3cf24d2044c"
+ },
+ "PA335758": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "5ffdf9cab04db0362f04fbc8e669ec0e5db10a3ab5b11ac691f138eed8011f1f"
+ },
+ "PA335999": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "bd46abc89ea7cadbb8b263778717f24c9096cb3766ae5bd53b33263bb0e9251a"
+ },
+ "PA340343": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "cc167a81b84274abab7a24bcee96304a23e65617dab2a408da2b09222d8daf9b"
+ },
+ "PA341981": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "863953090e313bf797e0dfe6e5c890040d45b652a4b7b11257b9bdb8d6c8795c"
+ },
+ "PA342196": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "550d48e48766b3a140d2e318e0e51867a42ba4b70cd5630cf3a1656fa63cffab"
+ },
+ "PA342240": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "9cce30b24a204c28b63b1dc7134295e8d0c55ad1603c17cfafaeef63bd6115e8"
+ },
+ "PA342384": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "525ae65586a1b619ce9eb9355cd7a8588b12552bea09081eca4608a2405a8bf0"
+ },
+ "PA342415": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0bb81d4e3cbaa812f99a179857564c411c6db9b98f864b2974e18b48d37ac3e7"
+ },
+ "PA345722": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "3bf206439923e9f0fb340cf895bd00428df9c86bc0ec271cf5e7298499dd9369"
+ },
+ "PA346782": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "76e7f3566f2e52a3825f5f7b3a6d4e37a5b0d2fb95981576f29e222d65ea9b9f"
+ },
+ "PA368": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "5fe1b18d282667fd1f14f2fe1909a419edf16f15ddc8858e9dd58cffe4bc62e3"
+ },
+ "PA408578": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4cd35a9e9a2227a0b0eae76e72552751d9007d718f87f5d246b07a76001cf7a8"
+ },
+ "PA569": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "5524664a2cc096ffaa8526fee986335461219345877de792ff0c2316034de3f9"
+ },
+ "PA588884": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "a2bb2bf6768ad71ce469ea87fddf95d154801db8cb52a24c8ede21e392dce71b"
+ },
+ "PA605694": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "36ab8087957c950bd0e276d5d68549bc0b7b82714f4ecf1cf794ab0bc5333820"
+ },
+ "PA605745": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c3edf97850b107a751e24e8623f83622b14b6367ff3add7ef2af176d30619ec4"
+ },
+ "PA605782": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "97c5c80486b6dc131aba1fa4de292df27701fc6178bda4ad633c474c24e1cdc4"
+ },
+ "PA605991": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c22bad620c4eb8716f23bc3b8475d38b878aa6d41fc2dbe6459bdc46343c8e24"
+ },
+ "PA606098": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "53a1ec84f1c4653ead1df18a95a8f7a42c1be455d9a6cb97f957e8225ef57f4e"
+ },
+ "PA606507": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4e0e19d4877ae1b081ba175e3830482d48011d58c9a29460c7b8304287c43122"
+ },
+ "PA606545": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "ecb805159cac89e0c8647f514e4d91353007d5ae714345cfe1b3726ab0ffea18"
+ },
+ "PA606573": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "628f73a4fd2a89c6abfd32116431e7cbb5f787a2deaa41deb0dbdb6a20dff6c8"
+ },
+ "PA606793": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "559d990ef99c885e395d9447e2383d38ace678db799baa2ac23f2f23c250b89f"
+ },
+ "PA607090": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "97336ef3a76f31cf351cb8c32fb8368c0a13f8a5c4511b3adc81e0d5f6df26ac"
+ },
+ "PA607193": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4e9347fb2f827ecf9684f0ee1573ae01e40171a9d98e1a8710b6b6f4a7c3d6e5"
+ },
+ "PA607395": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "592bf3813ece0c1580ec9bfcd6738761c356287c526013b005f540197b3cbdc0"
+ },
+ "PA607553": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "40eeb741fe9439e105f28b134c555eb9563a9efd1b46eee5d52fe36abe448b75"
+ },
+ "PA607619": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "33b93abb127f69c77de80198ff76dd6d589f27caeeb2dac479bc39256cefb9d2"
+ },
+ "PA607846": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "cda130803375494ebe7feca783a7dad4bcee48af9da78c9f0ac10416345ce87c"
+ },
+ "PA608016": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0d1e312a01695f575ca2b869bbf832945711ebd98592d9fd328dd44cbe973dba"
+ },
+ "PA608172": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d2ace303c9c440f9425733108bbb11d03c32f10ecc1e426ab914fcd3afe375fa"
+ },
+ "PA608264": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4d2b0e3272a7ac7823222d105809b6c459d8c502c28f5ce194261edce5ec7e76"
+ },
+ "PA608416": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "2169331817c9dcbee31b40e51e4a4e4027a953a72659ebbb6b8403ddefe5c686"
+ },
+ "PA608826": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "f306d6cd2a4517524e1c760a84f7f27b8481cb7369361c151334289abda97355"
+ },
+ "PA609332": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0e8a61ef153376204caf64d358d9409cdbc98f8a7edc99c31389c954c193fa39"
+ },
+ "PA610002": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "956328af751d4870a59d10c76034b6a556f4706fb129d8f5a583593775c44b41"
+ },
+ "PA610654": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4f4667e852764f1fd5b976058acf5af21857a99893e76b57395766a59b5e82db"
+ },
+ "PA610968": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "23bf1d33055701141058df2c755f10119385f80dc27703873b8d1dc15f7fb203"
+ },
+ "PA642695": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d36616aec09f69b66ba40018695800b30ac39b68678b31c21e2444b59d839dac"
+ },
+ "PA642725": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "ac3bdb00406c7e92b1798c7e47ac3c84674aed6a3aafe8cc70b3542f49515db7"
+ },
+ "PA642734": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "aa2faa510d462bb056b97ae83d5f0afc316768e1e2bf4fffd1dd4004f12525f0"
+ },
+ "PA642764": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "278a1b9a02c6a3823d2a8f62372b5bedf051aa5594880f993e028dc00fd798bf"
+ },
+ "PA642847": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d2e44dbedbe5f89fc75e821338c9af0ecfbe1e60cdceec64c222dbefe8acc5f4"
+ },
+ "PA642868": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "636081124f0121670463e52dad760ac3a90fbcfde37c0278fcf3fc2ddbd95495"
+ },
+ "PA642935": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "691583eaa9a7d232d1b1c06a8400af27376808fd619097b9ac5fa452a0074638"
+ },
+ "PA642988": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "9ee6d789d7d8bb9baeecf09b287f39525d1a7bdf1b2c9562923c158449e0ab90"
+ },
+ "PA643089": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "84b1a21f912790ec6779a8b218278f1859f1d4c41070db48202f54873e4d355b"
+ },
+ "PA643104": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d070166dc84eb4eac8bd56a2736b4329e02ec9bc643b0b5c21d84b3ef6f60d21"
+ },
+ "PA643143": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "a3fa0bb0ffa65fe758d96d1b956bf74e932b2c76a31caa91208bed36201cdfb7"
+ },
+ "PA643157": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "f83ba000b52a5769d2ab97c5f5ac6a60c98e65bdb996b3c07dee7e5aa3603635"
+ },
+ "PA643175": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "07588ca12239073194d7af93d4de39a54c8ac079311566a6d56bc77de49f26c8"
+ },
+ "PA643184": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "8dbdb58b50cc76bbc7d11f66db629154bf324df68a1761988a58d53a54e81665"
+ },
+ "PA643192": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "df65e6220fdcd3695bace085b3895fe750615da32252fea56de38887ccf8dead"
+ },
+ "PA677483": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "267b2774a24367758ba83bfc30cb36861b93c752b2c19086dd1825bf802246b1"
+ },
+ "PA687214": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e45898973d197cec7e0af1e6f6d287f90ac7f2f550f150e06ef2fa7ea2c50e20"
+ },
+ "PA695512": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "2608e515a20e3f960c6998f74abaef83701b7c4e0166d212be58a9abb461293d"
+ },
+ "PA712014": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "427c32544f16e9fe2262e992f0aec2a3f7e973b1a4fcdcae060ca7d38dae3a57"
+ },
+ "PA712015": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "3cf9d4b9762319608cf1a87cc60f5e583abebc8bd57ae83429578cf7058b065e"
+ },
+ "PA717161": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "53e67b9de482a8a30b999a813aeb28ffa4d4ef670be113f89fd34fc6fcf9dee4"
+ },
+ "PA717379": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "ea39646b6f0ea28ba52e16a74fda3c7766a60762426a9d295c07f22c07439993"
+ },
+ "PA718674": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "2ba3920e790d4ac8dee943e7f6d46bcf242d58f3fbac093622666c2b99d6d68e"
+ },
+ "PA718784": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "331b316bcdd515ce2b562ab92bfc185ec6d210d968ba2bcf6d9478fa4423c2de"
+ },
+ "PA718820": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e1b609954cd5098ee48770b1543fd98c79001172c9ff8050ac3fddd0bb79b054"
+ },
+ "PA718838": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "caf87ca7fcd6c118cfa11497b3073b355c7d195e83ce954546bd5ff8e1ba7d9b"
+ },
+ "PA718850": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "a71a0acf4330b93d8545136b763d564a1f4392232e56dc0c9bdb521a51b0af39"
+ },
+ "PA718884": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "7241066aa6833d20d2fd1748ff5769953318225bdb539dfc812bb353669e82fa"
+ },
+ "PA719024": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "23a669c93eea820be404eaea3fa5f475ca4d015a63171c5970a25e7b291d0841"
+ },
+ "PA719032": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "8fae07fc4d0d34c534e767b1204c978fb229806f05554f04d3a30e41f98cbbfc"
+ },
+ "PA719052": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "b418261783f98d95084a2b85177676ae635199ce90f6024c29b7020c25700eb7"
+ },
+ "PA719080": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "966148e1313ec628cd8875f1e12f33c2c171cd3b356033bf9512381cbc6e6d2b"
+ },
+ "PA719118": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "53226139b554a5bfaea7584d37c6f630166d7b014da81b542a797d12f67346a2"
+ },
+ "PA719138": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "8c89906ea275b4f5a60048a74e2960c1c7f7fe65598fe6a9bb0706b71f471191"
+ },
+ "PA719218": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "a7d4e96995ce78fdf7cb78f33c2767b6afbf7f0e6773b891984a1bfcd14f2d2d"
+ },
+ "PA719272": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "f1947df506a505ceed1e7931e1f283cc10fdb376641313c3928b7792c6e96d24"
+ },
+ "PA719282": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "6af2ce1cd3d3bda8d18607325a3287c0c16589fa1c6b6205986fd2cf921aacc1"
+ },
+ "PA719286": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "44157fd8e42bfff8b3eb168d5bae713dc2cfe97d0c2b1af5166acf6628e23acf"
+ },
+ "PA719338": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "a7cb5ac4c38e08f62018e9b2cc87c053780d81582f731a5bef4ac7b510b78719"
+ },
+ "PA719372": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "6f20ce27686f607974efa5113d9addf4b77928b9a006aa90a6496de2c342983e"
+ },
+ "PA719388": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "5e535cdf88b1e8a8c4a91b78aff71c66a92509bcda1d5795de02a893663fa565"
+ },
+ "PA719404": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "aa3756851c6da86524debba0f33d815bfcbc440555203b993da34bc3e2cc6847"
+ },
+ "PA719412": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d6629126da37b859b0ac3a0d19b694177e5bd2cf49a4a645c258089820f95e56"
+ },
+ "PA719436": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "8ebfb9dfba52864bbe0df2e44103efcf96108273fad073b1f21492c6c757244a"
+ },
+ "PA719472": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "6c509a73b779dbea1af73b36b2900f1f8a17f832c39c5ce967893103456022a2"
+ },
+ "PA719512": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "b358ef9d416aa97f1b68bee34026c8ad515d12a24f4c8b921c405954da979a3d"
+ },
+ "PA719528": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "1353fed46d346dc947e918077a0fe8958f5a30183bcf3cfbdd6cc515f39a2f77"
+ },
+ "PA719550": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "1aebf3672736ef4909abf24112736e5203967e1f2932c342d1dc44f0f7f42578"
+ },
+ "PA719558": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "2acaa68563554c5e18748d656385be303fd4b4577e3d0998da342c499f79d59a"
+ },
+ "PA719578": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "864cfaa61c321ecd54a9a32dd6e09ae106748b9a94ee59f4674ead4d85d68dad"
+ },
+ "PA719632": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "b981de535b9ca406a7c98a2992da8b163e25c73f7de3bde56411fb5aff86792e"
+ },
+ "PA719640": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0311eb05ad99c7b7765514c1ec74a07fe1b2a6567773b78345afdbaf1d5b2fd1"
+ },
+ "PA719736": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c6070e9efd494d626187464d41d9251e28b3c698faf773748edbf4448f5aee79"
+ },
+ "PA719756": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "813084c5316c13a931383bc70cc462e50f9ff31bace990d5289fb2204625aacb"
+ },
+ "PA719778": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "8f5dbec31de9a977d049b9fa218b722d39fb6a12c48c3d17bea2fdce3adf27e7"
+ },
+ "PA719798": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "f4e7871ee3b2ced95ff49216916147df6f83ff1d92a02f063a586a910c14fe55"
+ },
+ "PA719822": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "8d0637c9f57f55d54f5bc7a656bbe9e7697c0473d8f0ef91eaa7cb86e845c01d"
+ },
+ "PA719890": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "af8270f1a489936f91a4de7d331413245b0cae7e1726e47e53e1a8e066a2fd1a"
+ },
+ "PA719914": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "1ee5181458c28e3eb24042c8aa02bacd1d164ddce95d6913cc6f8bf91024e7da"
+ },
+ "PA719918": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "12583bec4972ab1228449568a88d7d50e402433c56590ac58cbe7cd9411d952c"
+ },
+ "PA719922": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "bf0144a4a82f08ccd6520cd62834a7144dd4260f56f5116004ace604645302e6"
+ },
+ "PA719930": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "a736d52b8b70a564272398dd500a6ce03f8e60c0e7af51a173e0d64d564f46cd"
+ },
+ "PA719938": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "2a9aa26ce24601b0d5932e6b491701bbda9d4b5f911f4cdcd0465a491bda9be4"
+ },
+ "PA719968": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0d2d7e944907a70aeb69f706ec8aef7e0be504502e75633fe3d4e95efb530081"
+ },
+ "PA720022": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "ea52003aff4a71eeef3efce9508eee7d0cdd369741917d3e9d792f1b895bb48f"
+ },
+ "PA720038": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "2a053e7636c0a718d4b8732158cf3de4c8574953682fe0fcf6d8d2e3bb4c0197"
+ },
+ "PA720066": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "7393a9438402cafdf1a729770c511db3a72cc11f01a047bd345350ace632482a"
+ },
+ "PA720092": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "aafa1d508b80bf7013e276a2f1f7d49902aba9ca12f17cd629df0f25c7134152"
+ },
+ "PA720100": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "677e643eaa12c12777581ba4b733e8baba2a13d8db9a4562121e490c39c00c25"
+ },
+ "PA720138": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "6f44e64a0e9f7cb2c96a4aca1744923181982ca024edde6eca240ac22eecea4f"
+ },
+ "PA720146": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "aa843dcf3a845a0a6afc180da2146cf3f979a9082340b131ddec859b2d88976c"
+ },
+ "PA720154": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "38a449a82c15aa1d25a8e257d16714d04ec8f537058f9b033c6b3415508ad462"
+ },
+ "PA720162": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "65f6b46a2267d69048c37e201541b355b0713524cb01a54e42775034aec3a75d"
+ },
+ "PA720190": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "de232fb97769434666d926dd6309170d082224170a5e0069e718cb60b36a8610"
+ },
+ "PA720230": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "127d625bd712dbe32714efae68b60ef33d7dc08c4178f8efeb96e214e8ecd926"
+ },
+ "PA720256": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "faa2c6e281ca79e814052f73639b9e28df3bad501f87ff4260d3d3a2faf33e2b"
+ },
+ "PA720334": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "a7c8360b13ff9e1a0aa7af347c559de5dbfb31c7e56d877781feee84f73b5d1f"
+ },
+ "PA720342": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "b8454c921d2e9f3e7b72c3599addc821cd3c711b3259412046f26e303f64fc20"
+ },
+ "PA720354": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "ab8123160458e7c80c036167b82b48988744397b371cbb108ffad68d7ad595bd"
+ },
+ "PA720362": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "58f56702de26958a162b29470fea2343bcdcdbadd438a58829ef41a86188a0ad"
+ },
+ "PA720370": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "8b24dc78a9dd6c2d27c36f3741d1d40cc6b7f7b758ecab18aa5fe57a53bd5ef3"
+ },
+ "PA720386": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "15f39c0a9c31c896b476b6c7ca78a5a5d7804fb92e2e9022c4822da8f708fe34"
+ },
+ "PA720390": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0ad22fb90706d12aafd6656e8e2111a7a5d3697e7fbf63edfc031146d3b19f9c"
+ },
+ "PA720430": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4c44ee9ac8ec51e840a27caea9a8d86b8bc20aaf18d7ccf2d06449c8138f5431"
+ },
+ "PA720446": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "19abb734c28751d12b470b2d262af2b5f6f0e46d70eed5cee599be1319726f68"
+ },
+ "PA720468": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d662b812912dd966189baa8fd96eb8ef513f1606d7fc62fac362e8c264c56f6a"
+ },
+ "PA720480": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "40dbcaba8d171faf7ed653d5891bdbe0d1b5709fb62d61c477104f0e8887c9b1"
+ },
+ "PA720552": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "7b8f9b0e81dc36b5b5564a543297960b7a801cf5d5f3fa89ca8f4611056d0a1b"
+ },
+ "PA720560": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "a8ae83074a05ce66a3939b73964ed0f7d81cd4e158d1fd143cceb41552aa6ddd"
+ },
+ "PA720614": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e36bce4bfdc0df3669f76ba0529773da6c6ca75336ae061d49f412503857f71b"
+ },
+ "PA720668": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "865ea93c3b51f2c8033041abce338c7a3d743ecd9dbc8619c2199c9af8131346"
+ },
+ "PA720720": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "33a7a01d649274cab8362126dbb719b99de2ca5133006c147d228e4021bfd509"
+ },
+ "PA720728": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "3f68c6cb7b1e0ed5e5d2eb1fac376f3f6b5307aee18aa64eb422c87ae5b58d16"
+ },
+ "PA720822": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "80c6dfb4905f116a67661e39c4c96a22559da06760632dd61a71d5fba49be908"
+ },
+ "PA720838": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "07be9689d4f57664f2ab402a792f48ab6b625dd1b81d413452b61bc78a464cbf"
+ },
+ "PA720846": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "7cf4ace476db6ba5394c682802741116b6d6cbeabc81d6edd6783cd66b1565be"
+ },
+ "PA720892": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c34ac7e878434556e505689f53da2c2f0a440cd0f45f103dcf05532cbb99ad26"
+ },
+ "PA720952": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "908d50e65c073707c6f1e32b482491833e4a4d0f742491f9136dea2a561e8857"
+ },
+ "PA720960": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "f19d17abe26c06fbdf520781440b2871279327ab4c4af77f0acf4204d46fdb9e"
+ },
+ "PA720976": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "aac243362e153c834f0484eafc8e1ee3f214f565aedaabd2da4248c455bfd8f3"
+ },
+ "PA720992": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "dc422c7fe153a1d72c3e9abccd98aec6e618dd6924b7b49e07555d938724189a"
+ },
+ "PA721004": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "19f34a567ecc24ec72579980bde179b3a1949e6660a4048371232e0e79f93cf4"
+ },
+ "PA721024": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "13f63d8a4615a62c073d5c041ab88ee0813966f4ff8c60dcb6d3f90b98094984"
+ },
+ "PA721062": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "fe998a498a6287242a68240277dadff95ec00c3eaf5d22b95138489284ec66b7"
+ },
+ "PA721110": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "907aea4dd2f566b222000f5c7cf5e023de48d83fb7229e353afb7befb3a97284"
+ },
+ "PA721158": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c63b295387017de53d336560abf79565fda4c4e1ec6b1b2bb413950ed7b3e272"
+ },
+ "PA721182": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "1a4d0e0df9088f0eedcd458320ff4b0ff9003d3de886250440a0b48011ce201c"
+ },
+ "PA721202": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "58e282dca7f2160c67a4916b17e0bbd950748be09895bdf4cebe4b464530359a"
+ },
+ "PA721210": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "b0d85760b32240e6bd47683fd78dcfdbe98bb5285326af6a3d1fadc056bcfecb"
+ },
+ "PA721234": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "fe6cb146b845a19b68b71d97a03ae0d315ea734f0b8f3d2be82393552fafecd9"
+ },
+ "PA721270": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0582c6a8d62beec8c9ba6dc2bb49081e21f31db298171402f6add3deb221d001"
+ },
+ "PA721296": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "968715ad7656ab73fefb7bd7247f1f5acd25cbdac09ada6b8a313d9b6425407b"
+ },
+ "PA721314": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "70f2b6ca6109a2f304c79d5bc68532022bb4896176fdb87940062a82db6443ad"
+ },
+ "PA721336": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "3c82d60c595cd597a1786a55912e932b7472758f3169dd1828be2b762c26c5c3"
+ },
+ "PA721410": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d23a7519989aaa184692a6651f78cf91efbda9e3e6859576ed43492d69590e38"
+ },
+ "PA721426": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "005d42da5695175efd3fdd7ad9e68d1707b1e9a7329926f896242967ec56c4b3"
+ },
+ "PA721458": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "758f6adea2d655a7bc15e3e013f3fa9f2e958636414845d39c7c92e653340e03"
+ },
+ "PA721474": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "5c0ee94a7b17cd2c7b09f562f481f497dbf596d0d00e45617cc7326dfbcca6f4"
+ },
+ "PA721486": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4463556e10ce2b53d55bff923d7fa1c305e2173ff9b4235cc9aa890d73b84a40"
+ },
+ "PA721584": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "88b50938d2132fc21838f7de3bb370f4c4eb3ef35cb7db7b529eb1926ba81e63"
+ },
+ "PA721612": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "be49da2c86ea2e5523a9667bc5913c8faab0c0d2342e418b985d0c58d37bbc16"
+ },
+ "PA721632": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "2ad10b38a1f5c7a7a50d091c088639962c5a141f12bd3f7d55f6f4a371481bb6"
+ },
+ "PA721750": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "203118d1729a51b1f80242508d2c3abc403436389561307225c24a80d770b999"
+ },
+ "PA721764": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "84ad01a450cf085632c469fc3ce12be81719927402e9e020ac7e95e6ecdf0132"
+ },
+ "PA721816": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "edc1f5dab4ecad0dad1ce4f71f1abd36a20f5420a77416d123e933fc1a771c84"
+ },
+ "PA721844": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0b2c86c3d814787744995ec5949763469e2f89e1d2cf2a439283d945cbb1351f"
+ },
+ "PA721852": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "35da2ec2c6c9aa3e52130f7dc02f717cffd6e4707275361a512f23cf9c6f2da4"
+ },
+ "PA721896": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4ce8fca79525a49d449898c3a56a1b08291190069de8a1570d62aee73fce4fee"
+ },
+ "PA721908": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "41554d11705ea648f4c98829e2b4b730a1ad479bcaebdbb26482f3b1c608933f"
+ },
+ "PA721916": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "f9591e4b4ea3358285ab0ac064d49f280e8e8cc1bc1081d25eaf316b224873ce"
+ },
+ "PA721932": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "9aab99e2eba7749a112641ad2ff99dd96a04bf3fb0bcf8d50222ea7be0834a56"
+ },
+ "PA721960": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0ffddfbb6569d8284fb8d6cd7e3b07ce80cc469280adde15aa15a56befb98c5d"
+ },
+ "PA721984": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "a5dad28c337700c64a968069e81699abaa4bf3cf3f173d9f2f57b633bca0e586"
+ },
+ "PA722000": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0b99e774ada3c791e5d1cdfd17ee7a46799d722766852ea706f4e423c5fcc0ce"
+ },
+ "PA722070": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "f1959d1250ae9225199bbe1de476177963c14270dcd2699f0c303c0dd50001eb"
+ },
+ "PA722102": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "3d6caab7dc19f4eaffb29f701e325081cedff292761590a84d2da83f6d7b016a"
+ },
+ "PA722134": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4bd94f84eedabe5faeb3db793d2f251bd8095d1af6f99d2b9f6648da532d44ee"
+ },
+ "PA722142": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "37b0656784f0763eefb87ee135cf218f37be13bd19ab4c38b2b2752b1ad724fb"
+ },
+ "PA722150": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c12752d94fe3b117d6493ca5e4599f1cb848b752e83d73d0e8b61bb43917c88c"
+ },
+ "PA722162": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "32a2a0749b27427a64b8ef6d23c4b999dd2c1ca4f37986814ae3178587a56cab"
+ },
+ "PA722190": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "38fe397efd574b63fe05204a88ee05f594e7ee78ebcfb8326de396c706cacb7e"
+ },
+ "PA722252": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "36166fcb7278fc8c46c5d58df491df3b4f9fa0a07e9b7060eaa314393f2be7d4"
+ },
+ "PA722284": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "b25db9752ed04c340ed7ab709dda25a2d576b0490e3be4a6267a87a856aabf0c"
+ },
+ "PA722336": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "dd3093afaa6b16b8804c0036f40f2cd27175c9a3cfc2cb4a2620331c854a70ad"
+ },
+ "PA722358": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "2eeaf40cee0ad222a07c2838b058ef94eb61d7a3660c71167240dad22e695345"
+ },
+ "PA722366": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "12a6c2e811e556438b5c8b4a6b301e5ac091238a83665240417f8f2d5db9d0de"
+ },
+ "PA722374": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "93c221be61ed9645cc095951df88585ae878c8e5b25874e32ffbcf6ed7eea65b"
+ },
+ "PA722382": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "1ffc9971f5a11138ac116b2a1e6fe0cf2ef88dceff85f0c4420c47074ef1923d"
+ },
+ "PA722390": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "5864aa12d34e949d011908d3349bf1ee3c0823c1c138a95f2d6d593a7fd15fab"
+ },
+ "PA736201": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "66a740f3b151f7eb1b3405cd01e81cfcb3597d6eea439bc759ccfa583f5a1628"
+ },
+ "PA757225": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "6287c5ad3c940d39e90125f35a72d7939fb14fefa1d6c64e2e23645dc1ac0c32"
+ },
+ "PA759832": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "40f25e10de676aa6eec722fe717daadeaba3bd73db6c1f293cb6c177611d9dd2"
+ },
+ "PA774954": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "57e6d42e838b5c2019cb287e149a08bcfcfce4dfe500dc27433a5b8840340e95"
+ },
+ "PA774958": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "edccde185e9f66eed9e54f638e9916f8e9a3f31189b24351819e98b1ddb45aff"
+ },
+ "PA774960": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d751572fe683e6beb4b638bb2b949d88ff6594377aa8e136fe308a3825a6a341"
+ },
+ "PA774962": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "2807517817db17705636157ad76d274522df09ccd0cd3aad219a455006c08eb0"
+ },
+ "PA791812": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "fdc122843c3a47362d62cdb9ec8830fdc2e3abd20e609c2fa2476b2f7ef6fa25"
+ },
+ "PA791824": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "84e409378ce1a66e7f1339be4f137553a29460d4697dab1c3d5322286ddb9306"
+ },
+ "PA793094": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "3beac50783deba91591c018d63d6f2ae9d0de6d6e824b73c09725c273a18599a"
+ },
+ "PA793102": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "3394c7dd882e6264515beaf934ac2b8ff09dd5767b7b5cd42adf17313534ca52"
+ },
+ "PA793122": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "cebe5f1e0a0b841693109858d44b84de821dcb3ff705ed27ec0d721707d1966e"
+ },
+ "PA793134": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "a107e76155032787413a1486706928210ac2075b483c5d4a43725f51c8a4b148"
+ },
+ "PA793146": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "956c50d77fbe637ad2827506897f71dc3f663e49cbe9ed4d7364c4840d4c4476"
+ },
+ "PA793158": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "fbcb4cf5e46978a8de5e399813e4798a2fc4966caf04052f7f76b5b2a2fcb71a"
+ },
+ "PA793166": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4bfae861d34f9068401880060cf82dd96a7ef8e7bf5a5a3f6553a560ab565c00"
+ },
+ "PA793174": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c7a82082e3e59f6ed1d1b44863bd0b285c7c58bd2951d6a556310116f64afceb"
+ },
+ "PA793182": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "947fcf1da96baaaea0f4d219930e506671b084c0a5e38709778015a135b19f71"
+ },
+ "PA793194": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "187dd24b70580ace4eb9caa20469fea9d0d583c265e59738b3cf82f2b6090f7e"
+ },
+ "PA793214": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "5862ed0d24354e4120194a76bbc08007d94a55dd65165c74ada6d6cc923fcfab"
+ },
+ "PA793218": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "7220fe17d50a8815be3e87039c8c9857ecffe33c6bf1d305bb716343344f8960"
+ },
+ "PA793230": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d374a97ba58ba6be3e9408b206ecfb7af20078c7d6ae722feef00e9ae68023a7"
+ },
+ "PA793246": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "25adc9273dfb13bd64b9ef60b9d3be0744e22c54da5f9ea1966e2145266a9bff"
+ },
+ "PA793254": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "65280e8b7f932a08ae0600fc87c673ce8a0dd5a60a1b1d7df79f930db2b8b9df"
+ },
+ "PA793262": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "14f3e9d5551c53df87ad23a59a66495b40e7650e0a9370194047ad35d12ddd54"
+ },
+ "PA793270": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "ae6ea11f07a9a07723726d4c2bc07d005cd08ef7d8123c071bb38c467f9b6726"
+ },
+ "PA793290": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c8818d3732bd0230c38010573e27181f3f849f566ae72ec3373e8522524d3374"
+ },
+ "PA793298": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "7ac3b829237217a1fec42958687640740a9f1acad2f2f7d39dc32a1bb4085710"
+ },
+ "PA793322": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0c76823b67882687f327ba6cff4a32a33b56e221ceb6c0aee565a4dff816acd0"
+ },
+ "PA793334": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "cb8e873468d003b0e6d895e37f28be6fb8d4cda280220409b6308fd7a2ab879b"
+ },
+ "PA793342": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "a5c345eeb16fb9ed3f4b8086b31a2e43e096b83d65fddb0403a237cbdb0d6d63"
+ },
+ "PA793354": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "15fe62d1d36c9d494c29aed398d1f53738177f1aa016654299334562b4aca3f6"
+ },
+ "PA793362": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "182ac44dbb283f52e2cdcbf4eed3fef7a0ed7a634ebf844da1b9fda555196397"
+ },
+ "PA793374": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "9f1d372745729444c2558edd70222a78fd6466293fd1bc56e97e819adee0cf1c"
+ },
+ "PA793382": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "debf81583ec3f9d566ac2574854fa02d129939197fad0f548edeeb8c61e69044"
+ },
+ "PA793394": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "90fce1d56f8b64ca9916324d76ba2d63e4312d733e22840bc67420af8ac0091a"
+ },
+ "PA793398": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "a8d6c190e94754754cb8bdefc1222155455efcea9c6e97398a5cb6481f4d2a8f"
+ },
+ "PA793432": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "34b6cd7a5245ce7f64d1e3bc7c0c7e8496f948adf15f3632ab4bcbde860e0bd3"
+ },
+ "PA793444": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c6b9b297eec9e2a09d634f9b8977ee720fb731f3cd68fbda394fd3392f5c21aa"
+ },
+ "PA793452": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "db7eb9c2aab2862e542ddb7214b24aadaabaab14a2e12165e402e4ab56cfc51d"
+ },
+ "PA793464": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "8e0abc62732792f777e94cb871c7cb2b87e71bb60c6f7cace66fa7ce4d0ce452"
+ },
+ "PA793508": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "9b02604974a8aeb605da8706dcf7f47880aa903f7455b91bb7e00c7d3e0e12a8"
+ },
+ "PA793520": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "7ee5765c09387f0814d54e9931646837efc95164a6a04adf14203c03fa40311e"
+ },
+ "PA793528": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "420c8fa194bba1bd8efe15f39e4cdadd74b1598ec450dd9c0554ce189ab24606"
+ },
+ "PA793532": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "51e9a5274c786f3459c9383685b3b065cd5d28cb7ed1ddcde64a211db2384892"
+ },
+ "PA793548": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c817191f28ffe92b47ad84b743fe02570d1a20e4b35d965edc2cd65c68372d89"
+ },
+ "PA793556": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d44e15df79738a926ce04c3dcad90558c9ab85214cf450abdc8d38c3297d32b1"
+ },
+ "PA793592": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "bfb382b170aa27b6f6a536278a4008d5b6ba1cdd9c5c08d7aed76933a64925ed"
+ },
+ "PA793608": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "43e20fd566c9555bb234e7b01445eb42bb3426d4ccc22d111fc9dbc67a4e1aec"
+ },
+ "PA793616": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "9dcc72a434d537e8f92381492ae85b6a94599bdc6cb69b800af799b242ac1bca"
+ },
+ "PA793624": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "f2f42b5c2af7058448d9602b316734afe156298aa06a0fbc38cba5e3deb8aa8d"
+ },
+ "PA793632": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "ffcc811c4a21027daf649f6f73f992a2f32bcbef480bb96a14689f2c646b75c3"
+ },
+ "PA793656": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "b3391aa85dd2aaec98d54d09cc1af9ac4703fe1ca433f792eed9ba82afd8baa4"
+ },
+ "PA793664": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "6ff6ced786ddc54af1e97d7d235912527404b50ca517ffd93ddaa51314099427"
+ },
+ "PA793672": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "5d9720e4748a2c31a77ecd5c366ff97a593d9f8c352b3124d98b0411b613ce2c"
+ },
+ "PA793696": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "70d4c21d69ea7addbd06106869606a0b3df274e117a4ef4cb8922cb1714e57bc"
+ },
+ "PA793708": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4e05a8e8ffef7e11b4eb4f33599a54ebb2685d830c991aeed13cb73b5adecd17"
+ },
+ "PA793716": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "24b71be2747aa1f64d4e9f036bb740f42d3adb62c63cea9c9bff3b5df9f70387"
+ },
+ "PA793736": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "3623d856846b2e98269779b3f67d518299d58458227ae571af95d92aa7095d45"
+ },
+ "PA793744": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "b26e1da5e5740c61a176ea2bb6ed44127f6c3e4b4ecdf8980178babdedb192c0"
+ },
+ "PA793756": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "a439c0876904fa93a797f73f56255b27fefd0797a2425eab0b0ebfa9bc326c3d"
+ },
+ "PA793772": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "fc641ff47ea148e7c978cd2188c3e9c620e16d760faa510f4c92978bd745b5b7"
+ },
+ "PA793780": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "fd64342e9095c97e5a539a850fa8b4595e44741bfe437cff634d304c478654e9"
+ },
+ "PA793796": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "1fd4be5972c196872cc8096c95aabeb76d4ee61be7a2c813c6baf5f15f4b0566"
+ },
+ "PA793816": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "992af7f7ec2673fca509e57f91c8443d02308bd2decbc7b3c98d4408985ef57f"
+ },
+ "PA793832": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e5e14c3d506bbfe3a443f43a01c44c2b69642609ebf60fd061bbf93947dbc0d8"
+ },
+ "PA793852": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "217e01e453729ae7b68134789f1ed378f8cf1ee63fc398791996403d99083ebe"
+ },
+ "PA793872": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "25ff2096590ceb9277c85dd437feda39cbc20548c849f3610313343c1f4038e6"
+ },
+ "PA793892": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "84faf0c041c3f6c41b3b5315f9ab3e94a5cc71c81d9c1e026bf8686f71d364ad"
+ },
+ "PA793912": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "67703631a7cd7986e3e52f7e05430fe3386ae8f2079432cdb8c39381b71a86f0"
+ },
+ "PA793924": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "3e2e9cf1fb2a2e8e42cc7732d7ee46e102ae30c4c510375925890193c026fba9"
+ },
+ "PA793944": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "66fa339b1a9d6b763a6b7538968fefb8c4745582c3aeadc8c653eb6c5ae2941e"
+ },
+ "PA793948": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "a25bfbeab93dfa33a6c64f947f67f52a0c8cdc18cd54b3ec64b531f501f418d2"
+ },
+ "PA793980": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d715d64119d15cc5da8a104930d181b1c4a61f4ed54b1b021a099c9b3ef7d9d0"
+ },
+ "PA793992": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "89e8129550d0ad27fee7e19f4da80cb64883af942ad0ded15b25491ddff526e4"
+ },
+ "PA794008": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e3469b04162bb590f2b19c3324f39a2045aff6852bad2cee26982111fc9dc942"
+ },
+ "PA794022": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "5f50fda6e6f5c6b59fb2948ec052cbd86d57b0c1599d54d5856969589de02b76"
+ },
+ "PA794030": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "40e64518b640d97e884571fc48b11034806e7a9acfe12aed9ea4e372e17c379a"
+ },
+ "PA794038": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "94bb67e426bdc2791afb9e2908600b0e4c448b64b9ceb01cc136d8fb7d755cfc"
+ },
+ "PA794058": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0fc93287161d2704eca790495bb406d51f73d52693dffd8e425041167455805f"
+ },
+ "PA794082": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d5a4d61a535916e94cf0a999cf7ad6197512cae44de51d52682737b221135d51"
+ },
+ "PA794094": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c5d01415e4fdf03a92df5b9236b5cccef41632bd02bbbc4b7d967c936e9d7f91"
+ },
+ "PA794106": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "cd2640f18c85b1993798e7cd31e08e65aa4dca4442bf937b544aba6ad0cb1e15"
+ },
+ "PA794114": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "6b454767dd3536fade9f0e376de106b3464e23b42b6321b620bc6c55c7aeecb1"
+ },
+ "PA794118": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "387c019d25e5e48424d9b477303e4e89bde3940bb7a834d7b0f84180edf8477f"
+ },
+ "PA794130": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e24206478b590ea2a21e5c789a242ea7e5425296622798678606719a2e70dc25"
+ },
+ "PA794138": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "dd545495d732bf758e1c859c3e22cb5a2e232189f791113c37cb37302fe5c4cd"
+ },
+ "PA794146": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "35e37f9fc1198edd3ee5a6d2785cd2dbdf070193499f6f7b6beeacedb901122e"
+ },
+ "PA794154": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "918177cc40ac02fc8ed1c15b519483689c1a68108260d2054d651f916cdf6ca0"
+ },
+ "PA794166": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "2d260fbb1c182fec365912f641beca3d2bb723ec106730aaf3a372ac0570a705"
+ },
+ "PA794182": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "ba8d4dba9995d7f832a3ed5e46abd8fd2eadb061b2fda49641df51d242f59e01"
+ },
+ "PA794198": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "9a2877cf541b50a11690d8fed0a774cceb0093483ce22633ac506cf726107d0c"
+ },
+ "PA794206": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c5920457a6c316c0e32e593aa33dde6ecd6bf73f2ff8cfdafae3fced2d158ee4"
+ },
+ "PA794234": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "24d0357f459feaaff0493f0950c14c80afa0bef9243c597022028f6520c3ac2e"
+ },
+ "PA794262": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "b8aa7d8e81dd23acbb3f04ca07e1109bc37a273bdcfffaee17ff0bcb3c92f658"
+ },
+ "PA794270": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "6c5c648b933d04a0f32434a76e74f0e7761fb7cffc397c22e52ac3bd27c0c0e1"
+ },
+ "PA794278": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "06ef528802dce257971a36d8508e1e03f0dbb522221ee774a484e73d9435d2b7"
+ },
+ "PA794322": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "dc4f1553878eac457a1c4a60fa2673ba93fb5d9aec6f8af9c23afa285dc57d30"
+ },
+ "PA794330": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4afe4112e1019cd7c0ba93374e5464c842734175a0201108059e0321932bd455"
+ },
+ "PA794354": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0a06b52d10e97d4fb82e10499827f89ba782dfd67b8b3e79ad483025037e8715"
+ },
+ "PA794418": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "ab5c7d5c7693497e136cfb00c5ec4b5bd30d081939f412c5a7837845e00ae3fd"
+ },
+ "PA794430": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e195b14bd16f6b062b02ad89f397a4b0f311709eb570ba138f8bd7859968ca64"
+ },
+ "PA794434": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "6e28b7b719a24537cf5e9da8a28cfc103a008be9e513c4727d128a94bde841c0"
+ },
+ "PA794442": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c378cafd233686ec00c75bfcdf71e85549c239220fd36b0d8a7434f9d617ee23"
+ },
+ "PA794470": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "919b6c5112d9bc15a3f71a9769856844007e362fd83410d9e885e896884baf26"
+ },
+ "PA794486": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "db52304c07e2e06fab72a783b2f986eb5423301186ff6caa7c8b21014007ad84"
+ },
+ "PA794494": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "22bd5024e2f59d73d6809145b0d9f88584954d7ec464a71db03fbe9cf95f243f"
+ },
+ "PA794502": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "f8e86776ac4fee9f6671310f098ce79c6f42f5178e7e785a226dd5d131516aba"
+ },
+ "PA794518": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e46b39dd133eafdd8d837cfc292492771aab0505952f84c09909459683a3a654"
+ },
+ "PA794530": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "04464310f8820a75911024d62761dce90901274849d8e96e4becdf632dc00641"
+ },
+ "PA794562": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "83ad2e502f45974db734afc014a372cd3ac8865aa967128b177600f2ba427758"
+ },
+ "PA794570": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e1261a29a438b2b32ff8017b169d623c502102bfbdf71dbc5d13c664b1dcd338"
+ },
+ "PA794578": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "a37a34f7e13061de2d30b4c92231c9bac0147d4813cb5736cbbda42a4eb1bbde"
+ },
+ "PA794582": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "db086263b999fe0bbcf936f504537cb2203540d3d44026b5ef38a2e7b8a6cf8c"
+ },
+ "PA794590": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "99f35cd02538a04a2f0622f11db8b7376041d88e8ef7f53258364d8d1638e908"
+ },
+ "PA794598": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "7d1fb4a7f502cc7557634c54567d73ba683607ee0dae16487622e5cd3c71d687"
+ },
+ "PA794658": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "8b73bd63d9cc117594322993c05943eb95588244c5bb42d639af846fcc6c4c27"
+ },
+ "PA794670": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "86a6a15c01837e4ba47a6eb2296532cae63724b89bf499fb6751e1a2a6083c34"
+ },
+ "PA794678": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "9addc19e3e710cd6ef1dff9a2f8c9c1ef79138f0875e8cef0cdf2ebe65d83c00"
+ },
+ "PA794686": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "14300ed855c6b85d4ea116bfb3953efc8455e0da124bfd6b2af28ba7b4780ac6"
+ },
+ "PA794702": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "ae0efd35ce75a00ec04ddd120ab0af5d059cf19939bf7f04945ea4ac5216a026"
+ },
+ "PA794710": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "b5f21221187d209a2f923e5dc01e9459ef11b6876e5ba8f79633de79062ceea9"
+ },
+ "PA794718": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "bf4a33ff6eaf1a40494dc82264f717ca2db968233774c7ddbb8b626dcaca74a3"
+ },
+ "PA794734": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c9ebb2e3f30c56757baaaa8c1fb206b2f74030de56099ab2aa99b2f1a6b4892f"
+ },
+ "PA794750": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "359af2465de94a417b470ee28081d4af1498f1a0583fb7134844882ac0fd655d"
+ },
+ "PA794762": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4f2bd1850c2377d88413ccf3136d183371f08c2bcb53bdf3e207bc7516af4d91"
+ },
+ "PA794770": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "18fcdca36814a1bd5fa0a27bf8ec0a615944b21866f9c23d1e6277d807a2087c"
+ },
+ "PA794778": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "029d28d15bf18c012c7d1bce7123f7bba3539cceaccbd41b5f8671b7ad06671e"
+ },
+ "PA794786": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "7fb3304f40b6298a33fa062d01ba314eef0245707fbe18c17e9f20ffe524ded5"
+ },
+ "PA794798": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "656d1b9bde488bfdd7562681578cb5aeb725e10715ba925a413184d4c2d6087a"
+ },
+ "PA794802": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4f81d09b4194faa8443cca5b797a1000dfe001c3bb9459db844cd6c17a14832c"
+ },
+ "PA794810": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "2be1a2d80ed4995907bf74fcbcd763c2c9e7a7331b0a2d6afde40c083479bc58"
+ },
+ "PA794830": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "810988d91b059433fd6bff110002445700b9c3bc96b6c957f2d0d45cfd4fcb41"
+ },
+ "PA794838": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "01456f9e88e4c16c11b094a6c8df40b6a45a0fa471019a223e72f7f9073e58db"
+ },
+ "PA794854": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "3397d1d8a2137f96d003fb11e90beb4df35c5281d04be8ea260705826ef55591"
+ },
+ "PA794870": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "beeec4dbde208a302351f65c68e52f0b8ca103ed0009a44c566a19ecb0a3c473"
+ },
+ "PA794886": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "166f3009a48d758854489e0f7220847c7b6ff8f401608d857490c0441c4e90eb"
+ },
+ "PA794894": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "1edf3647141f0afbca6c984dcec272da7721515f7d16f5d2767dfae24f6632cc"
+ },
+ "PA794938": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "43582943c0e5ee7ac885c2fc74469f4a21aeb5baefa77813fe3fe17e43cf4b28"
+ },
+ "PA794946": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "2e96357b61f566b9fa23b68327cb57ed2fecd5c9a0c2ff5c38ec8f0ad5edfaec"
+ },
+ "PA794954": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e9f9706fd3e194e86f5d96daea29760a0ea6a13de2e016f8d72ba0da48fa1ae7"
+ },
+ "PA794982": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "be6b11851bd592f029e4b601516861203c5ef0e71850aca45fd5e67a33b5af66"
+ },
+ "PA794994": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "581662c2c839073aa4b1b12f94689cce3d0e220eb723f8d3760e307ec2b569e0"
+ },
+ "PA795010": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "6a9a9faf7fa4b1fede6730f0f8f20fee594d0c55f3054425a1a5a559dd02b965"
+ },
+ "PA795026": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d99fb3a03c841e96296c722cf067a805d47ee9a9d15b8fddfb96a2a4768cabb3"
+ },
+ "PA795046": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e7d03fe912f03f0f973af55a32a42137843810aa7fd093a3804d354f95d25776"
+ },
+ "PA795076": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "b0e9cf4a761611521d4f2c1f9874c7456055c428a52ca0d17f0bb882a01991dd"
+ },
+ "PA795084": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "544a43002d588a3d3a8b75fc82a813bb9312dd3bf73ff29f1d10e14e48d60dc6"
+ },
+ "PA795100": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "6ce83e0b87e6ef10016f944c126d80e7292825a53ee16888fc60d5d140f47c79"
+ },
+ "PA795108": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "a47692de82a827549f268a815c4836b2daef78d99ce4876c80b994178aaa2834"
+ },
+ "PA795124": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "2a39736dffc96ba409bb8dd56c05911527559a291810dfc5dbc2b59434e4d59e"
+ },
+ "PA795136": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "ab23816075336bcb7054d7a68d42cc4603e9b51704e69beaf05856af30778f4f"
+ },
+ "PA795156": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "1df24fa4fd0d867c61aa3b15c0bd88ef26fe29c8feef533eb0e84c28b6dcfb58"
+ },
+ "PA795164": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "1de8f6837de48faefc6edc6cf91fbe1d38ef8ae56c964e68dbe6129f26f3932c"
+ },
+ "PA795176": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "94e822fbab1ec4c70fded8a0f52379fc9d335a675a42f7398c73980bdc251730"
+ },
+ "PA795200": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "93f0803bbe7799ecd21e9ce21adffb654ed3f52e4554532196c98c03651941e9"
+ },
+ "PA795228": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "092c91f16a4fe2b8384758e2fde2cea0022fe58d5d5cd5abb4f0584108f980d9"
+ },
+ "PA795240": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "f6668dc579b05fc23fdf4bb74a059e99af65b14e81a0cd301a41532c57ffdf4b"
+ },
+ "PA795244": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "b41a5b46fc54ca28a19b2f17f62dc81bfa2973777672a8b08b60fb8eaab08056"
+ },
+ "PA795258": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d87bcdfc1b00b384d4cf333b9f6dfafa984a95402eb2808db5ef63f685a76be0"
+ },
+ "PA795270": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "bf748406035a90e9ef48e1fd84ac8d60c5636fed0d04b156bb572776626956e5"
+ },
+ "PA795298": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "7179fc2ed47202bb60fbc00dcbc28d605e3b257bd4cec624504ab6c3a48d7f6c"
+ },
+ "PA795310": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "890693dcfc03e969a14c122356f2dfb547fdd8ba11d8880c487fd8b138719699"
+ },
+ "PA795318": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "95747b948a0b68fadee3529baa6dd61a62e91a8a401e931413e7f27e94cc5cd5"
+ },
+ "PA795326": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "78d20e60c59f913b1a405afbbd162c7ca77a2e6022388f2cb6f5e56d2ae881b3"
+ },
+ "PA795334": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "ca018816ab6e0e172213741fc1ff39a72005f387ccc8bbf9d04fa9bf826eb22e"
+ },
+ "PA795350": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "371dc05cebf2def3a8d35ffa622c6dfca1810c9632d0fda41ee1fe2ea983647d"
+ },
+ "PA795362": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "324151ed016d64edcd87d85b337ae04168b30477c9e4a81ce30756968f2b1722"
+ },
+ "PA795374": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "03d6de1c20febfe78059d101a5fa605812de7e163538cb511ca8af5c9696299b"
+ },
+ "PA795390": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "b39f552a988e44bec5d10ad7b1ae50e9bfb56f0f3eb092d05efd688c44e78e72"
+ },
+ "PA795402": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0c4763b0ebefaaab081f07ff754fdfa2b480f542b0a18226528d15ad0102e2f8"
+ },
+ "PA795410": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0b16bfbc4269107fa61b918bb1cd5b2a9bbeb569415cd25a43255059c440e8e7"
+ },
+ "PA795422": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "f6966a8678299418b6075afdef68f5e67beadc8ae253603214121231bb951c01"
+ },
+ "PA795430": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "528de61c120e7ed92785b2c3654ff154a00db1aac0fea8841f26facdcaa1699c"
+ },
+ "PA795454": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "33273091285b6fbb6579f7fb2a4ffcf83de1cf47ed5bb08b94dace3ae6dabcef"
+ },
+ "PA795466": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "963eceee55374b65a87a9c6714d3e9754529703adb75235baa643eeaa138a96a"
+ },
+ "PA795482": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "6dd3d8b653001d55070f6b672ea2386cd72d5c19e21bf96c4aaa2a636deb8416"
+ },
+ "PA795516": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "bd1466ad3fe63f6381d8564d3b534f4e74a9c685f1e89d71bae6d226e33936a8"
+ },
+ "PA795528": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "5acc3195eafc51a2eba92f1f9cb981a51c36fddf0333288cfc44e11d89439311"
+ },
+ "PA795540": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0ae6a8deac10a36c308619d6ec9c2a8f7420a06dee5f15cab4e02a3aa411f97b"
+ },
+ "PA795552": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "57a930179949efedebacfc913be03973d57fcd4efc51c2521ee4239e19d66f7b"
+ },
+ "PA795588": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "5525a9440b75727efe3ba0225d2d3e6e9027e0481a2454409efaba98c52b0090"
+ },
+ "PA795596": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "a4b4c538f0ff87a9ec6e4af77ab70d3e28b39f93f37cf7b351d91305d4aada54"
+ },
+ "PA795616": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "6e392b7eb2ad8a38771ab3ba5c81e7ca43b00bd0ee0543a3c0f43840bed74054"
+ },
+ "PA795636": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "bdcc58d92e3dfae5771938b02afdb968a773a4a07b17af528845af34b25af8ac"
+ },
+ "PA795644": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "f0b0d7f05bc6247e1db2cd2c2a11057f56c03c2e321acfdca7f25ee3446c5202"
+ },
+ "PA795664": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "1478773e0f6f3c8f0df77ca27568338acdc4f0c1858ef4d371ee563cce2761ec"
+ },
+ "PA795672": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e5ce025e136f6b96da73518dd96028d0525c3140f857f3b5bf5e60267a4e51c3"
+ },
+ "PA795722": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "14809e5c3773f332458be9ce215cc2e0007833233595676fb71873108a1514f1"
+ },
+ "PA795730": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "faf26364b1df5f09183cf76ce7394a7927c6d144ef258ce4829d17fb131d089a"
+ },
+ "PA795746": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d16ca18ed0ef2f1f61e463aa501eb47fda1697d4ef7450b114f326efe0f98e29"
+ },
+ "PA795762": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "085bf242db434010def1a8bdf967ca5482b24b828302c0ce98c1b58ce22ce316"
+ },
+ "PA795778": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "2d7b2ca0411d5d69e34a0376150dcfff82c6e50fc0d2529452dbb4992027d6bc"
+ },
+ "PA795786": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "851ead6d7c12b62178adfff4734dc5c96c81c43ddf989b6e834b543f04c15928"
+ },
+ "PA795808": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "75f2e7672b8096803f26be2fc9557ed486367ed9a47ff41a6fba53d52f563bdb"
+ },
+ "PA795820": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "91dd1ff1b4a09e3030944486f588af4d98869e04e322f418b7a5a0c354db6b18"
+ },
+ "PA795844": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "772cbc066604e7a9a25cf675b6153604ea2643676de2a21a7a1c2f19ade3ef7b"
+ },
+ "PA795864": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "63f224874cb193d7367c3571d97bf45ea7f1e10734d8548d1a777a775f4b9928"
+ },
+ "PA795868": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "9b2ce3283f9a6dad25b845e59a4a8fe788abc408cbb6bd119ca0c7beebb31595"
+ },
+ "PA795876": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "2d5f14bd00008864dcbe6c002bee21f8c7e800aa8563eacfb0f13beecfd41949"
+ },
+ "PA795884": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "6274c63fed0db9e620f9fc606a3974a4e3571c82809b65a5159aa89d397593ef"
+ },
+ "PA795900": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "29d1e0d54ebc10dca1deb4d4ac2be35956f039e584c191d213bace9294aa8ec6"
+ },
+ "PA795908": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "1bb73248122f80cfce28cfd3642dbdedbcf60518d99bb2f3450ce7715108b78e"
+ },
+ "PA795912": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e5d44133e6aac422664da0f1179b8937fde5f004cf9b242f782a236cb9594bf6"
+ },
+ "PA795920": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "02033dae164eaa45dc6542c71bbe4a07b082a06a55ad2f32326870a9fcbf9c45"
+ },
+ "PA795954": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "2ea0b098381be89dd831ba95a809d792f493ffa2e248fbbd427abacff89c5538"
+ },
+ "PA795962": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "bc72d871e5b8e014531bbeca2f106551e21bf90d8e84cda8d42cd2cabe16c525"
+ },
+ "PA795966": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "f477407dbf08fa5d53d4abb7261ae9f0baeac5d3f31b7a7360a8587686fdaaa1"
+ },
+ "PA795974": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "9f2a0385160ba0bb9d924520f33a794bb248e69c6edafdb902d013fa1d984fa9"
+ },
+ "PA795982": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "2ccddd1846452b610c8879f501c72fef820810fe361c89cca1d26dd9c8427ed0"
+ },
+ "PA795998": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "7e9f216372b43ead5ad121c349da71ddf88d5c6d6735adf46d3adec1ffb00ed9"
+ },
+ "PA796010": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "9450764b625c2714a280adf2c2fe596fa9ee3f7383a9f6c1564904f79f5c9ab8"
+ },
+ "PA796018": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "9cbc77dc4fb4c9bf249d09cb56279f05b683e5a1739ca6ce74b05b7bf5cf22ff"
+ },
+ "PA796026": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "836815439b3ad91e8acd1ccaeb9bdcbe0feb4484fd5116390e8ce1862f29b448"
+ },
+ "PA796042": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0e17346a83a816535e53ce8015eeed19140cc9e66a069b2f4025b23f0cd117f3"
+ },
+ "PA796050": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "b9d5ec0525e5fb4ba229d29bff48f4d697af7e0735d5ab14b89153227e75b2de"
+ },
+ "PA796062": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "61f68c47e378c27515ac200cc4d757c411e2c25344f47ed95dd7aec50925d96a"
+ },
+ "PA796070": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "27da6588d03d350b3ef8fc335361ad71084ee92861c7253959b4dfd98bc15004"
+ },
+ "PA796078": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "29da0743d15153f9fe0c50c8cf893796ec35eaa78d996928c46d0b98c23164ae"
+ },
+ "PA796090": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "823aa65cc8675ff81ccca43e820f7c9a4b7a4d679506804e7a1401973df6ddc3"
+ },
+ "PA796106": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "b0dccd9d841274dc91d70b07b9e9bfe8b9d05eff52c950e1b9fa0d924f370015"
+ },
+ "PA796118": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c0f0a3307af2f9b2c8dd26740c3f2552137ca994e25a817347224350becacb5e"
+ },
+ "PA805166": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "2ef617aab2a0f1bdcafc128d2b445bc79349bdcbc3099bd7afc7c9fcb30e80ed"
+ },
+ "PA817203": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "f8f6de061de91aee7e26188992e1d31ad6bba92ef45f7628da206ff730edf6d8"
+ },
+ "PA817211": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "ac15d146c4e5b87d46d33463363064edc6e0fbf75a1bfb5b6e356788d10ea508"
+ },
+ "PA822617": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "bea33f90bcc5e6087c0dcbf7cd73eb6131c1cf26203bc20013b090994b6d383f"
+ },
+ "PA826635": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "3c40b2a9c420413e38974c92164ae2ae16957f9c0dfdba82d41d1bb0a052e622"
+ },
+ "PA840067": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d1424151fd291f2a5e8f5025e92d969f20f236d39cc46e3438d76bac93fbd503"
+ },
+ "PA840075": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "fd36c4f1ca80c5d712e729ce5681e73821003cef5f61e5d65f8cab82ca7d2614"
+ },
+ "PA840107": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e9dfd9842a0817f6d007373f8601494f89409f6e8f431bfeb4cc317520b100d6"
+ },
+ "PA840119": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "a15140ae4300face184eaedb57420f85f88642f83628a4e5055559581aa2440a"
+ },
+ "PA840135": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0691b28470147e926c8a620d19051c4830586da4b0cb40d19ce84e7eb25cfcd3"
+ },
+ "PA840143": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "2b1def7c26f7f522f3d8f137045171a54516fac1eff42735c13ad8f4f32a0bba"
+ },
+ "PA840159": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d4f90bedcc290f7d1eb5eb063df67f5ed611d5cb39b2f95a66324840f22648e3"
+ },
+ "PA840175": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "83c5914edeff6917f1cd3716f046c8df2f3b577a46f03fd57cd35aa93514fc2c"
+ },
+ "PA840235": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c95fcb11e19883224b0ac664d54afbf49986c74e55c37c57983cd2ce911fc8d7"
+ },
+ "PA840657": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "8948d1b4c59a73b384885ad1e9e398b42c902a282213b0aeee3b13eab502d9e3"
+ },
+ "PA840665": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "2ee2d571f36a7dfeffd9694fbd03df9edd27f847c2150b5a17ee688f48402712"
+ },
+ "PA840673": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "20c2acb727227b6afcbaf19ed16281b68b4774b7dc87d0ba7ae895e8817560cd"
+ },
+ "PA840685": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "3f2901a53314721298385b924b02937410f70841af2f26b11c7f81b1ab396da1"
+ },
+ "PA840701": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "94c585d8af1d875abe31242f49166c4be66e71297582c11df43a0b6dbae4710f"
+ },
+ "PA840721": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c97352f9b9ee761d3f029a9999a234fca7f12bbaad072e33053f36ce8d83360f"
+ },
+ "PA840745": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "3ab10637fe5f712d43cd5e6a257e1105f7274519dd17f7b6c6d652013800c2f0"
+ },
+ "PA840757": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "49a7935d9e06dee50ddb5263612ea2e018eee89499af09d32952d59cdc5603b0"
+ },
+ "PA840765": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "38f680e08d27fcc17f98a436d0da77e7f7e7e2ae4ae7ca4ba5c85616de5b5d11"
+ },
+ "PA840773": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "45cfed15969dd773b677bb417218cdcba7c9012b58e2e8f51543192660d59927"
+ },
+ "PA840781": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "5897849002337d6b1fddefed2433ca15f39d870ceb2a78580b2922df06dafe11"
+ },
+ "PA840793": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "5e5011801de8b1b50f68ed2c73fbd258e49d23fd96d81327ec516f721bb12a71"
+ },
+ "PA840801": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "dcdd5383bddbceb18f7760ff41ae09d0568d4f536450913d62ca1b2f7491b508"
+ },
+ "PA840809": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "8ce49dfa7411d61af2687f38f1b398269fc3b7664c26a0719882264af3e144f7"
+ },
+ "PA840817": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "5977a1f429d67fdf0f41d1a693828d37b6871bf89865b2ad7afb267f02cc69da"
+ },
+ "PA840829": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "de49acd8f0c55f4a808d4e499030230c158316cfeed0fd25b8f11980a4719452"
+ },
+ "PA840837": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "dcda21cc30a70335d13f4c4e97b68bf4989e2867b608d0f09f2ef90160ebd72e"
+ },
+ "PA840857": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "40404508146237837438701603ee41bbcdf012815c8ee465aa875376b815c52f"
+ },
+ "PA840869": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "864f71db2b41357caaf5555b74ecdb90e14fb7100c916f7227bfcd32ef79d126"
+ },
+ "PA840889": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "97a58d47c305d0409e0101a9146fc861681bf04ffc5d877c4ded34bb1188c405"
+ },
+ "PA840903": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4f6e779679c36f1d1a5ed1b3f0d6b825adeea45558d23cf405bcd0c660856d9b"
+ },
+ "PA840915": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e012553f9feaad7f09d2a5d846bef8d762308e2fafadef807d7e715556c7b5a8"
+ },
+ "PA840939": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "7f2cfdda00107bd0ba79301e393e4bc9de24b6965a1b7e1a62aee00c8f02efd2"
+ },
+ "PA840947": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e43edde77fa8d90d644733ec60520741521cf82269ba6ba42eb15c2c0dcffeab"
+ },
+ "PA840955": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "31af100afa9b67ecec10047c744b8dba425ca4bac9963bc4dde702338adc5188"
+ },
+ "PA840967": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "6e22228a6fa11c0ee42feb900e3a9148fd442b7f478a0e0e569b7217986531d9"
+ },
+ "PA840979": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "6316e7655584836ddd5ad93e492648b32a75f43a6d91db2fde761bfea086120a"
+ },
+ "PA840983": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0cdf793a6b0e4a91875e0d07325173ea8b17c53a6ca95ce89d781b55d50fa7d5"
+ },
+ "PA840997": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "760c88821a672587bde974e5b5ef791d5d3b81de5496cf805862cd32a5e5b8b2"
+ },
+ "PA841023": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "b48abab2c20fca5523295f0fef89ac00e4b0cb4992033c3f78ad6c9802f8ba0f"
+ },
+ "PA841047": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "552833cb3d2b5d8118b96056dbbf5777c4b57efaef87d0225d27ca41200244b3"
+ },
+ "PA841059": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "530fc076c22bbfc6092fb5940937abd4fbc5983d77a3dc589688f3a16539f518"
+ },
+ "PA841067": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "685dbaf15827c400358c9fe4df73f2f1a542bfa5d555a5b2f15d8a0c10788f7a"
+ },
+ "PA841091": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "411ff60358786eaa545ec076b0cdd4ec607f7920e2ca208bdff9a2fd960ecc0b"
+ },
+ "PA841107": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0673130700b8afb116a302874683cb2a07fe2372fc7781ac1b27b665fcd5d0c0"
+ },
+ "PA841139": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4795df6e9a9630d0ff06d92f421fde1b40233dbb624df37cd7141cf4b7a0e3c2"
+ },
+ "PA841151": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "8c557719eb34deebe7cdcffa8d985e59e233534194de51915f54f8a9084c7e65"
+ },
+ "PA841183": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "adb2b5ad5841e55739716fd3022a95027524764512ebc0eeb9c83da3c864896c"
+ },
+ "PA841191": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "dab1f77399e16af96da34ecb71c434af656dbf25655f6927c2418275487b797f"
+ },
+ "PA841199": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "fe975c8a1d59ffaf60409c6a71d1edf09198d270db9d370b2a419e0833fa18aa"
+ },
+ "PA841207": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "00b6eeccbaa30839d97ffd1ef2c9ec7b0e951af7ea0da3e6228f84307612d2ee"
+ },
+ "PA841215": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "9debd4389c58bd9a226bc4793756e0690cd28d77be367404616bf8087006f0ea"
+ },
+ "PA841223": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "324c85a9465331b25f1c3f09bf3ea2b3aabe9557cc89f9808a8d6663246f5421"
+ },
+ "PA841243": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "a4fb3820629b2de65246da260c852972aad685b364bc5361c12b52f53d897f94"
+ },
+ "PA841251": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "7129d15ff94c05da208bddbe9e646593a7a60599c28417789cc1cf54b56c580a"
+ },
+ "PA841295": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "961a65852810ae8ff34346859c256c29637e1b899a4881cd030719c77d08be14"
+ },
+ "PA841315": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "14cc1c082abfef2ff9f56a825ce77c0166aa2bdffd43a415821622ab902fa0b1"
+ },
+ "PA841327": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "f6b9f15e8fa043eb5fdd666b00e69dc489f93ae42640c05749045c5bc23299c7"
+ },
+ "PA841339": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "9dacb44b7029a6b0ab88ec100b0ffbf02fa76ee8b9d00af53df1551967a3a8dc"
+ },
+ "PA841351": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "168c60a1a2cc256dd1dcc8ec6c0e611243d156c52efa282ee5757b21647fdc1e"
+ },
+ "PA841359": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "9516cc539b0d3feb3e007986b958164f1f3929455705d1e36830ed383b3a56f4"
+ },
+ "PA841367": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c07798a915d43270a1bc1088a5eb2bef42de9de5996d2ef8150b2b01bd1c2fd5"
+ },
+ "PA841377": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "8f5fd664db356021984c199e2eb7f4eab95602c9c5cc6d0cf55962f3fa30480c"
+ },
+ "PA841381": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "924e4b33168c2fb8f44ac657e235c7c4028042565669de1e7c27ae1f5a984527"
+ },
+ "PA841395": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "091000dfaf27e30c566e4c671b5210070ba6385f944971b9ac0d217fc5a6b164"
+ },
+ "PA841419": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d722aa42d9ea34e807bedd88b5a03ce48a31bc6cb1c5167085a47efd906bc4f9"
+ },
+ "PA841431": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "6585cf610f74ad2e5fbb2d0e4f89266a6926536cfdbb0c10b2b957467aadaa12"
+ },
+ "PA841439": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "8d514c4df9607fed32ca4dd941091af84cc5b77dcab36bfa680def753bbd6762"
+ },
+ "PA841451": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "11d0ed114b62a2c4400507bfd3651538a63fcd9353611b9356860e84cda33ccf"
+ },
+ "PA841463": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "27e0667bf64d55afe33a99133e92b5f1ca317654edb25334fb6b647364a3b391"
+ },
+ "PA841471": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "ffb596dc4ad2a0093ba1887fa6f48aa3d1f90d7b19f20e74c9d059d68490777a"
+ },
+ "PA841479": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "f844a42791d0c18f2ca081231ec629a0f6d7747f965e288a334613b26385b697"
+ },
+ "PA841487": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c9577f9f18669a78667a848c242e0c625b34fcd1850b5a39f23e6f7b3bf37243"
+ },
+ "PA841495": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c8ddae075e6c44ce470f7f7be57b57cd3b82d32c862c528795ffa817755a04db"
+ },
+ "PA841507": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "95ebfec8443f2a73b3fab110de495a920e1b1f466ae16e1acc0736b16fefc023"
+ },
+ "PA841515": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "927f5d27a3e2fbdb8c167e82215871e32dc31c53b4a4a832eff25282cb787f7d"
+ },
+ "PA841531": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "143aa9782c038857212398884ede97f078e05f180de2aa250ddca6727e3bcdf1"
+ },
+ "PA841543": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "da379588638f9f2e560dd966c549fab97f3cb0482b8fbd5c3c7edbf38eb4f48e"
+ },
+ "PA841553": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "aa9ad5b76fc98193371b2d8268df792755e6ba93f7f1f671573fbb08b74cb5db"
+ },
+ "PA841563": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "50e478b88c52e87c99bb2505939a5af8d0cda737085bc8bbcdd7a8ce78b1293c"
+ },
+ "PA841575": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "04e6ecd44f46afdbe88a9e4d8461cd45d92845538d7a7f5f78844da0f65621c8"
+ },
+ "PA841587": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4ec6428ed7942c4fbe80e43d0d047a4f8f004927564ff1b1bb79b8f548f8c33a"
+ },
+ "PA841595": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "ca213adb356ae38ff48ddc81d9087cf8bf485d3afb70c9b5d4f3d6b836feeaec"
+ },
+ "PA841605": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "45185d20b523d1a065a72a82217744c59d631714af0945fc299c740815edb4b2"
+ },
+ "PA841613": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "5e548ade42375a4b9faee951c965038ee5f1207226af2bab2e5a78f2727b568c"
+ },
+ "PA841621": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "17e76049069ee1a4f344dc04b26000c3e1499efd42df1cb8780edf37a63c6242"
+ },
+ "PA841633": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "051269b0717d460edd1bb8900113faf4d4d76ce7902bf5216a9abf92f0e29a27"
+ },
+ "PA841645": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "a6724aa27640b0557bf2717457fce1ae52c46b6732e8dc8ca6cd94b6603748e9"
+ },
+ "PA841657": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "149e81bd679e586c912155e92e36d4b306d2c6dd7c4b00a01c4798e05e648b2b"
+ },
+ "PA841665": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "823ae59918622f0e03317045bca915530b6def973483d58801946fca559284b5"
+ },
+ "PA841681": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "5af1fdefbe1c44a3ac0b3ff3d6234c30faecdb53d7face3465fea878ad5729a1"
+ },
+ "PA841701": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c2aa8d670a998acd50acaf7b3c8657e847e45369a71234695ee8ba04a203725b"
+ },
+ "PA841709": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "94839dab0b57664133b4150294ee411334cfb6efb8ada333128450c300a4038e"
+ },
+ "PA841713": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "943d88cf750f683b712700513e8c1b3827250de5a3de494b9d9d3cffb7978f84"
+ },
+ "PA841717": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "8018893ef644271064b94649a90e2a6937b1daf463c95adf695eb4e7dd91a726"
+ },
+ "PA841729": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c2e02ddf0b28293748ad39d1d85b846fe2bc9ab31eb38f14306124aeaf29eda7"
+ },
+ "PA841737": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "3ee50a34f3a9cf2650d4fb6b1b15b3bdaf76498d88fb0ce5ef77cb54e962dbe3"
+ },
+ "PA841749": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4946463a4899768e91b14054aef77e9dc6444b08f3b9c721cb8c4649d7886c1a"
+ },
+ "PA841761": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "1ed7ad70aa0c8745d4ff4ba57530d26d9e68e25e57898179ec193afd6d7a5cc2"
+ },
+ "PA841769": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "7e1939cf0d64bb1e4e102e0ae332b61a2fa952fab749f69f67cbbfa3a6adc431"
+ },
+ "PA841801": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c33c1f1b36e76c2ef2773004431a538cfa90f8c133e94d9c21c8693e4d4d10b9"
+ },
+ "PA841813": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "9e0803095e28c11f7dfd67d1bdaff794403ed7fd44fb204462b07c3aadb7ff8e"
+ },
+ "PA841825": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c6a5a7c9e8bc8ddc335abf09ba25f1757b2cfdfaff8712d175c1ac0de18a5999"
+ },
+ "PA841837": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "5602f736127369b70f687a69f4c4a0b4f3541df34ff1e3dd36e7acb8cd3eb1a1"
+ },
+ "PA841845": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4362cfb72f4293ff2cd83a53f9645c6b6d3c86082872a8e832a6d7a275418e24"
+ },
+ "PA841853": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "dc3f840927dbdda70e0975256b17129c733ab49cb1a04bc1faa1db675aafd456"
+ },
+ "PA841873": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "da794ad40d3c0a5eeca79841b8d7a30d36f28cabb9a1f7ffad7fb726ca4a244f"
+ },
+ "PA841885": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "5e45e101b128e0b1f93d68051270fb3bca916abe62360e4aa81b63a88fa5354d"
+ },
+ "PA841893": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d58dbe858d98d518f9d64538bbb00436e847c18519283cb32e58d9f1e04f9894"
+ },
+ "PA841919": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e19d93469604d840408f950f3071bf454f98618b6bd98d4ca837dce3116c4a23"
+ },
+ "PA841927": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "9477aad4af9d62dbe4d8f9e92b32bd63662af89c63c2afeb5d6618fc65eb631d"
+ },
+ "PA841931": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "5c98918d05620add98376bd61279104a0a87dd0fcb3c987cd7a80e8123ff788e"
+ },
+ "PA841947": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "1d894e1aed55c14062cf8d584283f306cb80ee2182308390a4bb81145e8d2a97"
+ },
+ "PA841955": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "ed691404f1b874b0c4fc7b355efc7e7f241a71d7855b9f28a4c1cb1313a2559a"
+ },
+ "PA841973": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "68ec59e4a36a3523e8559509c276f396262d56a8b48892663a7f2ff4b18c854e"
+ },
+ "PA841981": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "188a785750b25d85be7be19c1e1378005325e55a2d07147533a03bd20f121c26"
+ },
+ "PA841993": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "05040a54165cc3305df5ba5f4cbaad53ccf131050ed7d2228d89eecea559eed6"
+ },
+ "PA842001": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "8bf0499aee74657943af3c287597141cffcc89d4ed88ec7bd35479cc0610cc43"
+ },
+ "PA842013": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "b2900b0dd657c32cd05b89d8d72874830732a916691825cabaa567da81de077a"
+ },
+ "PA842029": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "09525a37c97d662e55364b633089a084808d921eb1c43400318b108274b4cbbd"
+ },
+ "PA842037": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "a8404d4b3a52243f1f4b2a0391fd5a2cf7b99c730038ed7941b6ddd7ac593797"
+ },
+ "PA842045": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e1a1c36b01ac1d752172bd6382bef9e82cd11b75d7959195610ac3ceb76f4012"
+ },
+ "PA842073": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "7285f84bc95b16027358821a546311c9d7712832c83e282c877dc1e94cf4fa46"
+ },
+ "PA842085": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c25ae0b2975ad87af5b3635a701c61cf817fccaf7496171411a98e75d69a920e"
+ },
+ "PA842097": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e7ee215e3fb318ce15ddeeea519de280f095e9543bec8936f13a209e4a8ef181"
+ },
+ "PA842105": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4040d91c53dc540a3bcdc58282b8c26a07892added0b33812ce35b280b0cd0fc"
+ },
+ "PA842121": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "5a295b93a4c76ce69eccee45bd86ee6dd1a5dbe9e62dc88fb16d62a2f9ab7714"
+ },
+ "PA842125": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c43ac2729860b8dfbf91fd292258cc871d62b9e6ace67d67e8591d2d4c3096e5"
+ },
+ "PA842141": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "3b449ee895f7d7139561bd67dc34dfd983b19003466d140cf8226d5a09db9a9f"
+ },
+ "PA842147": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "19f4d5685d3a8cbe542b788b8d718cf83467873eecf1d2a6b8bd1fe67897f41b"
+ },
+ "PA842155": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "94d83c3bdbb5dcd098ef2aef79d5b379dde4429b6427eeb49b09a8d2c90151ec"
+ },
+ "PA842183": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d7903f8e6648137037a15c3eced721419c5a6117e8554ff73fd3dea9a1626d82"
+ },
+ "PA842187": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "04465bd4040349a04905ea6661e01ed039c6af1754dc09cf6efb9bf9e12ad71f"
+ },
+ "PA842195": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "6d63be99cc490488fdcb1edbe80268005c348430b8a50f052bc31e8d617a4ccb"
+ },
+ "PA842211": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "6831ec04cb0fae92e6e0570474b6f2fc163346fc2476b9801c1347c81ecd3fcc"
+ },
+ "PA842227": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "cefdad82817afed1111478439571885ffc3b8ee4065711d8f0e4311f9e6baf8a"
+ },
+ "PA842255": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "b55d4fd50a468f500ced5e3a8a4805b10737b3036fb81cbab0d6edfabaae8ba3"
+ },
+ "PA842263": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "7b19da3c51d5d8af2b43d9a0c2f1a06df84b1a8848d45688746a7c6eddd90c2a"
+ },
+ "PA842271": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "53c358404ac74c059103510760ac4b2d14b89aab323cd39653527a527392e5cb"
+ },
+ "PA842279": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "463c09b05eb556d3a80b0909041ff20f4fb502f529830b5131a9cc70abcf3d54"
+ },
+ "PA842299": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4b8f12389bafba15c2e68211c9f0879acf69e588c5f35432c311c1012d70cba5"
+ },
+ "PA842311": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "03cb46e3d12303f7e75f28b59340efeb375a34e5c383c924c77a5ed329a284a7"
+ },
+ "PA857021": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d79daeb734e735e5a2074dc6a95a73146f01bcab24de984ce9a5e636d572cb52"
+ },
+ "PA870009": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "a926980e552bbbf2de517f393e18bdb702430bdc1e47b655c131bfa53be5be38"
+ },
+ "PA878242": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "7ff812479e56bd2f6507cb772654dd96575590e3e71227f1c0730bf276a306d2"
+ },
+ "PA879389": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "856ba9b84cb1ecd4b8e82ed67cb2d74db0f4694ea0b81ed7fe6e9bbf6aa06002"
+ },
+ "PA942": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4e3039cfa321a782eb6567ba9f1bff31a3b01dbb6fe3b2499005686b368d2457"
+ }
+}

@@ -804,6 +804,11 @@
   "date": "2026-10-04",
   "originalSha256": "e36bce4bfdc0df3669f76ba0529773da6c6ca75336ae061d49f412503857f71b"
  },
+ "PA720644": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "f54d2a5e0432009837e73b29225f7bde3c2ad50973b1bb46f8954adf38916e9f"
+ },
  "PA720668": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -838,6 +843,11 @@
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "c34ac7e878434556e505689f53da2c2f0a440cd0f45f103dcf05532cbb99ad26"
+ },
+ "PA720908": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c34e2cbad23e08d0e9e7dc1b82904b8bf5bfa8985f10b06f371fad1c10a754ae"
  },
  "PA720952": {
   "model": "bria-rmbg",
@@ -879,10 +889,20 @@
   "date": "2026-10-04",
   "originalSha256": "907aea4dd2f566b222000f5c7cf5e023de48d83fb7229e353afb7befb3a97284"
  },
+ "PA721134": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "f68c76c1692e076d80e22f56fce2e158f905fe09c3ab8a28bf4bd268d6a4c01e"
+ },
  "PA721158": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "c63b295387017de53d336560abf79565fda4c4e1ec6b1b2bb413950ed7b3e272"
+ },
+ "PA721170": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "cb81e2819c3180abf0505c4d7f9230dd5e7650eac111769c1cc348f800878eaa"
  },
  "PA721182": {
   "model": "bria-rmbg",
@@ -934,6 +954,11 @@
   "date": "2026-10-04",
   "originalSha256": "005d42da5695175efd3fdd7ad9e68d1707b1e9a7329926f896242967ec56c4b3"
  },
+ "PA721442": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "6026758d8de1b92457cbc719e804f621c0673686a6ad837765d7ec2fec299264"
+ },
  "PA721458": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -978,6 +1003,11 @@
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "edc1f5dab4ecad0dad1ce4f71f1abd36a20f5420a77416d123e933fc1a771c84"
+ },
+ "PA721836": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "8901a1691fc0a97b361ddb4c283b24da28bcf1fa2e0a422d05be8773c7b8553b"
  },
  "PA721844": {
   "model": "bria-rmbg",
@@ -1024,6 +1054,11 @@
   "date": "2026-10-04",
   "originalSha256": "0b99e774ada3c791e5d1cdfd17ee7a46799d722766852ea706f4e423c5fcc0ce"
  },
+ "PA722046": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0d2100b038d6f9a89a76af203396eb5d12d243dc83516262eac565872c0d2e99"
+ },
  "PA722070": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -1068,6 +1103,11 @@
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "b25db9752ed04c340ed7ab709dda25a2d576b0490e3be4a6267a87a856aabf0c"
+ },
+ "PA722328": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "25517d2642b5c49db3370c033c55578109fbb8373bd4a80ce1062425f2fe3014"
  },
  "PA722336": {
   "model": "bria-rmbg",
@@ -1194,6 +1234,11 @@
   "date": "2026-10-04",
   "originalSha256": "187dd24b70580ace4eb9caa20469fea9d0d583c265e59738b3cf82f2b6090f7e"
  },
+ "PA793210": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d48e49d6f3ee74170e36a64c577503c267f5f4ecef6f864efc581074f4094be7"
+ },
  "PA793214": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -1208,6 +1253,11 @@
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "d374a97ba58ba6be3e9408b206ecfb7af20078c7d6ae722feef00e9ae68023a7"
+ },
+ "PA793238": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "da6b77351b1d6e9cbfd911b1456123ce04a03e90b4c039b3bdb826848fe2007a"
  },
  "PA793246": {
   "model": "bria-rmbg",
@@ -1239,10 +1289,20 @@
   "date": "2026-10-04",
   "originalSha256": "7ac3b829237217a1fec42958687640740a9f1acad2f2f7d39dc32a1bb4085710"
  },
+ "PA793314": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4915a6fc53a466ab5cf296df4e298121e6402b89bf6654fba71146d05222e14e"
+ },
  "PA793322": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "0c76823b67882687f327ba6cff4a32a33b56e221ceb6c0aee565a4dff816acd0"
+ },
+ "PA793330": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "24a319f556b52878ea94742218f2271255dcbded3857bac0c83cda5c239cd069"
  },
  "PA793334": {
   "model": "bria-rmbg",
@@ -1283,6 +1343,11 @@
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "a8d6c190e94754754cb8bdefc1222155455efcea9c6e97398a5cb6481f4d2a8f"
+ },
+ "PA793416": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0b4b63b4999ff5cc71700f14aa8b2a800bc57f2b3e6179127bf1745fb7f85987"
  },
  "PA793432": {
   "model": "bria-rmbg",
@@ -1333,6 +1398,11 @@
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "d44e15df79738a926ce04c3dcad90558c9ab85214cf450abdc8d38c3297d32b1"
+ },
+ "PA793572": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "6faf1425cb8e0a37973fe7dea1278f41a6ede454ef710f2991ebb62b0faa8296"
  },
  "PA793592": {
   "model": "bria-rmbg",
@@ -1429,6 +1499,11 @@
   "date": "2026-10-04",
   "originalSha256": "e5e14c3d506bbfe3a443f43a01c44c2b69642609ebf60fd061bbf93947dbc0d8"
  },
+ "PA793844": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "6d5c4503c54fc4d971cc2bd140929d4acdf9e4e8624e3b32e14414922a031c4f"
+ },
  "PA793852": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -1444,6 +1519,11 @@
   "date": "2026-10-04",
   "originalSha256": "84faf0c041c3f6c41b3b5315f9ab3e94a5cc71c81d9c1e026bf8686f71d364ad"
  },
+ "PA793904": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e83664ec7b33696744f93496a61a64dbda81d9e9e0f13fc2ccbcc674af4882f9"
+ },
  "PA793912": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -1453,6 +1533,16 @@
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "3e2e9cf1fb2a2e8e42cc7732d7ee46e102ae30c4c510375925890193c026fba9"
+ },
+ "PA793928": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "f235f4fa51249fead02fe2a34eb82a69c56dd3572a56a27d1300f5ece9c9eb5d"
+ },
+ "PA793940": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e5ec3bc5943ac333da4b2a540649e0fb47ddd627907e3b8b8333825f50778046"
  },
  "PA793944": {
   "model": "bria-rmbg",
@@ -1493,6 +1583,11 @@
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "94bb67e426bdc2791afb9e2908600b0e4c448b64b9ceb01cc136d8fb7d755cfc"
+ },
+ "PA794042": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "8c5199bb59513e4335cc79285f7ceb005c19f481b89854ef2733b7d847c20bd1"
  },
  "PA794058": {
   "model": "bria-rmbg",
@@ -1549,6 +1644,11 @@
   "date": "2026-10-04",
   "originalSha256": "2d260fbb1c182fec365912f641beca3d2bb723ec106730aaf3a372ac0570a705"
  },
+ "PA794178": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "77b6f1f9e09c28e0a2b519833c2cbcbfcf6388389ab5f8c860c093f197a41b3d"
+ },
  "PA794182": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -1604,6 +1704,11 @@
   "date": "2026-10-04",
   "originalSha256": "ab5c7d5c7693497e136cfb00c5ec4b5bd30d081939f412c5a7837845e00ae3fd"
  },
+ "PA794426": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "dd6fd6d35dc1dd84a715ff8038052ccca683a3f1e546c134e43a3e4be6f3d9cd"
+ },
  "PA794430": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -1619,10 +1724,20 @@
   "date": "2026-10-04",
   "originalSha256": "c378cafd233686ec00c75bfcdf71e85549c239220fd36b0d8a7434f9d617ee23"
  },
+ "PA794466": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "ac44c7ed755f293c810deb7f17bacea7ce7799aa4740a6f52212cdedb9a50887"
+ },
  "PA794470": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "919b6c5112d9bc15a3f71a9769856844007e362fd83410d9e885e896884baf26"
+ },
+ "PA794478": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "03abae5df0b400e6e76a30f41dc3b3e1959a6a810c77be01f2bba371282299ca"
  },
  "PA794486": {
   "model": "bria-rmbg",
@@ -1648,6 +1763,11 @@
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "04464310f8820a75911024d62761dce90901274849d8e96e4becdf632dc00641"
+ },
+ "PA794554": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e3ffa68e105cffceaeb470900a69f6da338eb1d66cbfab659e2df31ef75abdf7"
  },
  "PA794562": {
   "model": "bria-rmbg",
@@ -1789,6 +1909,11 @@
   "date": "2026-10-04",
   "originalSha256": "1edf3647141f0afbca6c984dcec272da7721515f7d16f5d2767dfae24f6632cc"
  },
+ "PA794906": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "42652f4bfd640d3f2d6e04cbfe799ea2fa4b08b658dc78422e569fd0e8a47505"
+ },
  "PA794938": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -1829,6 +1954,11 @@
   "date": "2026-10-04",
   "originalSha256": "e7d03fe912f03f0f973af55a32a42137843810aa7fd093a3804d354f95d25776"
  },
+ "PA795050": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "fa9016df39543044f5a00a39d8f04b786fdac4bb1d6be1ea49f732fab9499175"
+ },
  "PA795076": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -1849,6 +1979,11 @@
   "date": "2026-10-04",
   "originalSha256": "a47692de82a827549f268a815c4836b2daef78d99ce4876c80b994178aaa2834"
  },
+ "PA795120": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "736e92b012e2f6f714ca5094fdf8e533cf499cfc175f76bce524c12b7aca1022"
+ },
  "PA795124": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -1858,6 +1993,11 @@
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "ab23816075336bcb7054d7a68d42cc4603e9b51704e69beaf05856af30778f4f"
+ },
+ "PA795144": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "d89deadf9c6eb4b7799615e0ce299649b7a45089c06245c14984e2bbcfe5ee4b"
  },
  "PA795156": {
   "model": "bria-rmbg",
@@ -1904,6 +2044,11 @@
   "date": "2026-10-04",
   "originalSha256": "bf748406035a90e9ef48e1fd84ac8d60c5636fed0d04b156bb572776626956e5"
  },
+ "PA795278": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "cfecfefc27e7a9edbbb71b56daebb77d6460b3f7e7d0dd7c8ab5c50c7b483703"
+ },
  "PA795298": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -1924,6 +2069,11 @@
   "date": "2026-10-04",
   "originalSha256": "78d20e60c59f913b1a405afbbd162c7ca77a2e6022388f2cb6f5e56d2ae881b3"
  },
+ "PA795330": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "ce350374c09c01823556af0613417c01224ad731522ebd4b50afa74f777bae3a"
+ },
  "PA795334": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -1943,6 +2093,11 @@
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "03d6de1c20febfe78059d101a5fa605812de7e163538cb511ca8af5c9696299b"
+ },
+ "PA795386": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "74f8a9028e2bc9326e144d5affd42e62c642c3ee44a44da94264983e54f547b0"
  },
  "PA795390": {
   "model": "bria-rmbg",
@@ -2104,6 +2259,11 @@
   "date": "2026-10-04",
   "originalSha256": "6274c63fed0db9e620f9fc606a3974a4e3571c82809b65a5159aa89d397593ef"
  },
+ "PA795888": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "caf71f0d8d1e153639df712c56e91095c7dacfbd829e566d138aad92a72921eb"
+ },
  "PA795900": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -2124,10 +2284,20 @@
   "date": "2026-10-04",
   "originalSha256": "02033dae164eaa45dc6542c71bbe4a07b082a06a55ad2f32326870a9fcbf9c45"
  },
+ "PA795950": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "b8651225acc53c38d0b1fd601775f72130a77cd997230d9319c23d246476d19b"
+ },
  "PA795954": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "2ea0b098381be89dd831ba95a809d792f493ffa2e248fbbd427abacff89c5538"
+ },
+ "PA795958": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "261f041c8f5317ad8cb851157c676d395337dbf9dbd21a9940551af3513dc11e"
  },
  "PA795962": {
   "model": "bria-rmbg",
@@ -2149,6 +2319,11 @@
   "date": "2026-10-04",
   "originalSha256": "2ccddd1846452b610c8879f501c72fef820810fe361c89cca1d26dd9c8427ed0"
  },
+ "PA795990": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "c3448f10231bca1ba7fab1467ab13a85e3cdf405615cb70dd5ad7be1a67562da"
+ },
  "PA795998": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -2168,6 +2343,11 @@
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "836815439b3ad91e8acd1ccaeb9bdcbe0feb4484fd5116390e8ce1862f29b448"
+ },
+ "PA796034": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "1a34dacedbc33dd5767ec5a4ea632a599f19e1412d2a7e93448558b03be0e994"
  },
  "PA796042": {
   "model": "bria-rmbg",
@@ -2269,6 +2449,11 @@
   "date": "2026-10-04",
   "originalSha256": "d4f90bedcc290f7d1eb5eb063df67f5ed611d5cb39b2f95a66324840f22648e3"
  },
+ "PA840171": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "a0c3395203c565e775fc475e51118695f27ee37bad79fc07507a9ff6a0e96217"
+ },
  "PA840175": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -2304,10 +2489,20 @@
   "date": "2026-10-04",
   "originalSha256": "94c585d8af1d875abe31242f49166c4be66e71297582c11df43a0b6dbae4710f"
  },
+ "PA840713": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "faefd5a12d8948a9e6aa8d990312143c35bcb0a179f0cc7af1b80b2cc73af2a8"
+ },
  "PA840721": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "c97352f9b9ee761d3f029a9999a234fca7f12bbaad072e33053f36ce8d83360f"
+ },
+ "PA840737": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "164c5d52bd1750d06ef1d04d27c894a7518cb7a849b6571bc2cb39063cc07ce6"
  },
  "PA840745": {
   "model": "bria-rmbg",
@@ -2424,6 +2619,16 @@
   "date": "2026-10-04",
   "originalSha256": "760c88821a672587bde974e5b5ef791d5d3b81de5496cf805862cd32a5e5b8b2"
  },
+ "PA841013": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "aefb151acc1d22c5acaae2c3e069cbf044edeb9b67eb18f34c37060fd387859e"
+ },
+ "PA841017": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "855c89e1fc6a9bec14f5bbdc2cdc8f8f9ebcb5f19569e1b6473120dba23adfbb"
+ },
  "PA841023": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -2444,6 +2649,11 @@
   "date": "2026-10-04",
   "originalSha256": "685dbaf15827c400358c9fe4df73f2f1a542bfa5d555a5b2f15d8a0c10788f7a"
  },
+ "PA841075": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "8c29debf4d07615d829e36112a8f19eda4fc8fa9d27b7284ac97e52c39608c60"
+ },
  "PA841091": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -2454,6 +2664,11 @@
   "date": "2026-10-04",
   "originalSha256": "0673130700b8afb116a302874683cb2a07fe2372fc7781ac1b27b665fcd5d0c0"
  },
+ "PA841131": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "7859f91489a1b944bdab1cdd38292837ff8d8162d922dcdd8cbab73f77e27e04"
+ },
  "PA841139": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -2463,6 +2678,11 @@
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "8c557719eb34deebe7cdcffa8d985e59e233534194de51915f54f8a9084c7e65"
+ },
+ "PA841167": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "8bb60f11f34ea0601e29d17dc8c42d90ed1d55dbaa54bcd0c329ab4451c30545"
  },
  "PA841183": {
   "model": "bria-rmbg",
@@ -2614,6 +2834,11 @@
   "date": "2026-10-04",
   "originalSha256": "143aa9782c038857212398884ede97f078e05f180de2aa250ddca6727e3bcdf1"
  },
+ "PA841539": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "0eaa2ec912412d37e4560a9058ecdab5f1130d439b6c2053c4ab7b52272f8790"
+ },
  "PA841543": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -2643,6 +2868,11 @@
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "ca213adb356ae38ff48ddc81d9087cf8bf485d3afb70c9b5d4f3d6b836feeaec"
+ },
+ "PA841601": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "4344c33fc4c6d7e1e0680fcd1b460e66780a37419882c7182109a982d8b27c2c"
  },
  "PA841605": {
   "model": "bria-rmbg",
@@ -2684,6 +2914,11 @@
   "date": "2026-10-04",
   "originalSha256": "5af1fdefbe1c44a3ac0b3ff3d6234c30faecdb53d7face3465fea878ad5729a1"
  },
+ "PA841693": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "e70bea1ab76fbfa9f6ae5a9bbe685da40fa7de0dee232fd3b0763a346fbaef17"
+ },
  "PA841701": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -2714,6 +2949,11 @@
   "date": "2026-10-04",
   "originalSha256": "3ee50a34f3a9cf2650d4fb6b1b15b3bdaf76498d88fb0ce5ef77cb54e962dbe3"
  },
+ "PA841745": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "f2d5fa73da576d4c9aa6386d081691c182b0fd9574f45f9c13a83a3bbc337b7c"
+ },
  "PA841749": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -2728,6 +2968,11 @@
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "7e1939cf0d64bb1e4e102e0ae332b61a2fa952fab749f69f67cbbfa3a6adc431"
+ },
+ "PA841777": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "30f469dd41cd039780054ea65331f3a466cd46b2a702d0570cbaa7d29e026879"
  },
  "PA841801": {
   "model": "bria-rmbg",
@@ -2744,6 +2989,11 @@
   "date": "2026-10-04",
   "originalSha256": "c6a5a7c9e8bc8ddc335abf09ba25f1757b2cfdfaff8712d175c1ac0de18a5999"
  },
+ "PA841833": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "1e9709ac43043d7a9a046a5662779b58dbb79f9b67675d744ab90660454d0dbd"
+ },
  "PA841837": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -2758,6 +3008,11 @@
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "dc3f840927dbdda70e0975256b17129c733ab49cb1a04bc1faa1db675aafd456"
+ },
+ "PA841869": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "8142ee6edd36d1cbff7cafb25b9a2b6df2a24ca7a05a413a1bb1d59bd16387cd"
  },
  "PA841873": {
   "model": "bria-rmbg",
@@ -2859,6 +3114,11 @@
   "date": "2026-10-04",
   "originalSha256": "4040d91c53dc540a3bcdc58282b8c26a07892added0b33812ce35b280b0cd0fc"
  },
+ "PA842117": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "5fe25f49848c805e8a79176c234a1d46656670e3636b21216122a1c7228c0c8c"
+ },
  "PA842121": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -2868,6 +3128,11 @@
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "c43ac2729860b8dfbf91fd292258cc871d62b9e6ace67d67e8591d2d4c3096e5"
+ },
+ "PA842137": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "3a7751980e4362d75a0bd4bf7418853d6b4514b9246656d20a68db26158dc285"
  },
  "PA842141": {
   "model": "bria-rmbg",
@@ -2939,6 +3204,11 @@
   "date": "2026-10-04",
   "originalSha256": "03cb46e3d12303f7e75f28b59340efeb375a34e5c383c924c77a5ed329a284a7"
  },
+ "PA842323": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "b1fd621f3301c97fca5e70656431d0be18531d0284e0342eec0913fa5a7369e4"
+ },
  "PA857021": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -2948,6 +3218,11 @@
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "a926980e552bbbf2de517f393e18bdb702430bdc1e47b655c131bfa53be5be38"
+ },
+ "PA870010": {
+  "model": "bria-rmbg",
+  "date": "2026-10-04",
+  "originalSha256": "95b75fefeb24616ed26f4202db0a5811c9239ddec4eaa4e1cb6305883c52fa1b"
  },
  "PA878242": {
   "model": "bria-rmbg",

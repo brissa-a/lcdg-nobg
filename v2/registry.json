@@ -2459,6 +2459,11 @@
   "date": "2026-10-04",
   "originalSha256": "83c5914edeff6917f1cd3716f046c8df2f3b577a46f03fd57cd35aa93514fc2c"
  },
+ "PA840195": {
+  "model": "bria-rmbg",
+  "date": "2026-10-09",
+  "originalSha256": "9174246cafb04d0d304a2d2df1be6c2ce3282349b1931ee861a59fec28a8227b"
+ },
  "PA840235": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -2559,6 +2564,11 @@
   "date": "2026-10-04",
   "originalSha256": "dcda21cc30a70335d13f4c4e97b68bf4989e2867b608d0f09f2ef90160ebd72e"
  },
+ "PA840849": {
+  "model": "bria-rmbg",
+  "date": "2026-10-09",
+  "originalSha256": "c10e33fb526c022e135164161ea555b165062fb551a3369e10d23fed0c2471e7"
+ },
  "PA840857": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -2654,6 +2664,11 @@
   "date": "2026-10-04",
   "originalSha256": "8c29debf4d07615d829e36112a8f19eda4fc8fa9d27b7284ac97e52c39608c60"
  },
+ "PA841079": {
+  "model": "bria-rmbg",
+  "date": "2026-10-09",
+  "originalSha256": "11896a4458f7db1705ee473fb4acbb94e9c147bc8bb9faacabb6c4d5f0519c76"
+ },
  "PA841091": {
   "model": "bria-rmbg",
   "date": "2026-10-04",
@@ -2668,6 +2683,11 @@
   "model": "bria-rmbg",
   "date": "2026-10-04",
   "originalSha256": "7859f91489a1b944bdab1cdd38292837ff8d8162d922dcdd8cbab73f77e27e04"
+ },
+ "PA841135": {
+  "model": "bria-rmbg",
+  "date": "2026-10-09",
+  "originalSha256": "b62975f53c9466aeb761e375961352b98f3d367baa934cd68a33bdb14fd024c9"
  },
  "PA841139": {
   "model": "bria-rmbg",
